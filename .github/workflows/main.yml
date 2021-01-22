@@ -1,0 +1,13 @@
+name: Update Data
+on:
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Get current date (in Texas) and define environmental variable
+        run: echo "TEXAS_DATE=$(TZ=America/Chicago date +%Y-%m-%d)" >> $GITHUB_ENV
+      - name: Test
+        run: echo $TEXAS_DATE
