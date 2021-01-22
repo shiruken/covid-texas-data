@@ -10,5 +10,8 @@ jobs:
       - name: Get current date (in Texas) and define environmental variable
         run: echo "TEXAS_DATE=$(TZ=America/Chicago date +%Y-%m-%d)" >> $GITHUB_ENV
       - name: Fetch 'Accessible Vaccine Dashboard Data'
-        run: wget https://www.dshs.state.tx.us/immunize/covid19/COVID-19-Vaccine-Data-by-County.xls -O AccessibleVaccineDashboardData/$NAME.xlsx
-          
+        run: wget https://www.dshs.state.tx.us/immunize/covid19/COVID-19-Vaccine-Data-by-County.xls -O AccessibleVaccineDashboardData/$TEXAS_DATE.xlsx
+      - name: Commit Changes to Repository
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Data Updated
