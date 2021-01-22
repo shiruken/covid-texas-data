@@ -9,5 +9,6 @@ jobs:
       - uses: actions/checkout@v2
       - name: Get current date (in Texas) and define environmental variable
         run: echo "TEXAS_DATE=$(TZ=America/Chicago date +%Y-%m-%d)" >> $GITHUB_ENV
-      - name: Test
-        run: echo $TEXAS_DATE
+      - name: Fetch 'Accessible Vaccine Dashboard Data'
+        run: wget https://www.dshs.state.tx.us/immunize/covid19/COVID-19-Vaccine-Data-by-County.xls -O AccessibleVaccineDashboardData/$NAME.xlsx
+          
