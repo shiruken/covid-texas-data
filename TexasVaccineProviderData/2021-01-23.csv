@@ -1,4 +1,5 @@
 NAME,TYPE,TSA,STREET,CITY,COUNTY,ADDRESS,ZIP,LAST_UPDATE_VAC,LAST_UPDATE_TIME_VAC,PFIZER_AVAILABLE,MODERNA_AVAILABLE,VACCINES_AVAILABLE,Total_Available,Total_Shipped,PublicPhone,WEBSITE
+Brookshires Pharmacy 30,Pharmacy,,2107 S Loop 256,Palestine,Anderson,2107 S Loop 256,75801,01/23/2021      ,17:15:45        ,0,0,0,100,300,(903) 723-1092,https://www.brookshires.com/pharmacy-wellness
 Family Emergency Room at Georgetown,Hospital,O,1210 W University Ave,Georgetown,Williamson,1210 W University Ave,78628,01/22/2021      ,08:42:39        ,0,0,0,0,200,(512) 690-4590,https://familyhospitalsystems.com/locations/texas/family-emergency-room-at-georgetown/
 Family Emergency Room at Round Rock,Hospital,O,1925 AW Grimes Blvd,Round Rock,Williamson,1925 AW Grimes Blvd,78664,01/22/2021      ,08:43:54        ,0,0,0,0,100,(512) 310-1900,https://familyhospitalsystems.com/locations/texas/family-emergency-room-at-round-rock/
 Family Emergency Room at Cedar Park,Vaccine Hub,O,3620 E Whitestone Blvd,Cedar Park,Williamson,3620 E Whitestone Blvd,78613,01/22/2021      ,08:38:47        ,0,490,490,990,15300,833-984-3747, https://familyhospitalsystems.com/services/covid-19/
@@ -113,7 +114,6 @@ Coastal Health & Wellness,Other,,9850 Emmett F Lowry Expressway,Texas City,Galve
 Dept of State Health Services - Granbury,Community Clinic,,214 N Travis St,Granbury,Hood,"214 North Travis Street, Granbury, TX, USA",76048,,,0,0,0,0,100,,
 Tyler Family Circle of Care,Community Clinic,,214 E Houston St,Tyler,Smith,"214 East Houston Street, Tyler, TX, USA",75702,01/23/2021      ,13:57:14        ,0,89,89,89,100,903-593-1892,
 ASPG dba CHRISTUS Promptu Urgent Care - Carmel Canyon,Medical Practice,,11823 Culebra Rd,San Antonio,Bexar,11823 Culebra Rd,78253,01/22/2021      ,14:24:07        ,0,0,0,1050,2000,210-598-1517,http://promptucare.com/
-Brookshires Pharmacy 30,Pharmacy,,2107 S Loop 256,Palestine,Anderson,2107 S Loop 256,75801,01/22/2021      ,18:05:55        ,0,0,0,100,300,(903) 723-1092,https://www.brookshires.com/pharmacy-wellness
 "Emergency Hospital Systems, LLC",Hospital,,,Cleveland,Liberty,300 E. Crockett Street,77327,01/22/2021      ,00:00:00        ,0,0,0,0,975,,
 JPS Lamar Correctional Health,Community Clinic,,100 N Lamar St,Fort Worth,Tarrant,"100 North Lamar Street, Fort Worth, TX, USA",76102,01/22/2021      ,12:47:00        ,0,100,100,200,0,,
 State Department Health Services - Bee County / Beeville,Local Health Department,,1770 W Corpus Christi St,Beeville,Bee,"1770 West Corpus Christi Street, Beeville, TX, USA",78102,01/22/2021      ,12:15:01        ,0,90,90,90,0,,
@@ -208,10 +208,10 @@ Village Medical Memorial,Medical Practice,,9055 Katy Fwy Ste 200,Houston,Harris,
 Department of State Health Services-Midland,Other,,1101 Midland Dr,Midland,Midland,"1101 N Midland Dr, Midland, TX, USA",79703,,,0,0,0,0,200,,
 Mckinney Isd,Other,,1 Duvall St,McKinney,TX,McKinney Independent School District,75069,01/23/2021      ,07:23:23        ,0,0,0,0,100,(469) 302-4000,
 Bayside Clinic,Other,,621 S. Ross Sterling,Anahuac,Texas,621 S. Ross Sterling,77514,,,0,0,0,0,100,,
-Jefferson County Immunization Clinic,Local Health Department,,1295 Pearl St,Beaumont,Jefferson,"1295 Pearl Street, Beaumont, TX, USA",77701,01/22/2021      ,17:05:34        ,1330,0,1330,1330,1950,(409)835-8530,
+Jefferson County Immunization Clinic,Local Health Department,,1295 Pearl St,Beaumont,Jefferson,"1295 Pearl Street, Beaumont, TX, USA",77701,01/23/2021      ,17:17:07        ,1330,0,1330,1330,1950,(409)835-8530,
 St Hope Foundation- GP,Other,,"255 Northpoint Dr Suite 200, Houston, TX 77060",Houston,,255 Northpoint Dr,77060,01/22/2021      ,05:35:47        ,0,70,70,70,200,(713) 778-1300,
 I27 Medical Center,Other,,"4105, I-27, Lubbock, TX 79404",Lubbock,Lubbock,4105 I27,79404,01/19/2021      ,10:54:27        ,0,0,0,0,300,8067622633,
-Christus Trinity Clinic Sulphur Springs,Medical Practice,,"113 Airport Rd, Sulphur Springs, TX 75482",Sulphur Springs,Hopkins,113 Airport Rd,75482,01/21/2021      ,09:04:08        ,0,500,500,700,1100,(903) 885-1740,https://www.christushealth.org/trinity/clinic/locations-directions/pain-management-sulphur-springs?utm_source=organic&utm_medium=GMB&utm_campaign=website&y_source=1_MTU4Mzk0NDUtNzE1LWxvY2F0aW9uLmdvb2dsZV93ZWJzaXRlX292ZXJyaWRl
+Christus Trinity Clinic Sulphur Springs,Medical Practice,,"113 Airport Rd, Sulphur Springs, TX 75482",Sulphur Springs,Hopkins,113 Airport Rd,75482,01/23/2021      ,16:29:49        ,0,500,500,700,1100,(903) 885-1740,https://www.christushealth.org/trinity/clinic/locations-directions/pain-management-sulphur-springs?utm_source=organic&utm_medium=GMB&utm_campaign=website&y_source=1_MTU4Mzk0NDUtNzE1LWxvY2F0aW9uLmdvb2dsZV93ZWJzaXRlX292ZXJyaWRl
 Care First Clinic Family Medicine and Specialty,Community Clinic,,"1106 South St, Nacogdoches, TX 75964",Nacogdoches,,1106 South St,75964,,,0,0,0,0,200,,
 Harris County Public Health,Vaccine Hub,,2223 W Loop S,Houston,Harris,2223 W Loop South,77027,01/22/2021      ,08:03:09        ,0,2610,2610,7610,36000,832-927-8787,https://vacstrac.hctx.net
 Kindred Hospital San Antonio Central,Hospital,,"111 Dallas St 4th floor building c, San Antonio, TX 78205",San Antonio,,111 Dallas St,78205,01/21/2021      ,15:36:16        ,0,0,0,0,100,,
@@ -277,7 +277,7 @@ Albertsons Pharmacy 4142,Pharmacy,,301 Sw Plaza Shopping Ctr,Arlington,Tarrant,3
 Albertsons Pharmacy 4133,Pharmacy,,427 E Fm 1382,Cedar Hill,Dallas,427 E Fm 1382,75104,01/23/2021      ,00:43:06        ,0,0,0,0,200,(972) 291-0241,https://local.pharmacy.albertsons.com/tx/cedar-hill/427-e-fm-1382.html
 Albertsons Pharmacy 4112,Pharmacy,,3603 Mccann Road,Longview,Gregg,3603 Mccann Road,75605,,,0,0,0,0,100,(903) 663-2056,http://www.albertsons.com/pd/stores/TX/Longview/Longview-McCann-and-Loop-281/DC5678335
 United Pharmacy 505,Pharmacy,,401 Slide Rd,Lubbock,Lubbock,401 Slide Rd,79416,01/22/2021      ,11:32:33        ,0,0,0,0,400,(806) 796-1895,https://local.pharmacy.unitedsupermarkets.com/tx/lubbock/401-slide-rd.html
-Brookshires Pharmacy 11,Pharmacy,,807 E Tyler St,Athens,Henderson,807 E Tyler St,75751,01/22/2021      ,18:19:25        ,0,0,0,100,200,(903) 675-4211,https://www.brookshires.com/pharmacy-wellness
+Brookshires Pharmacy 11,Pharmacy,,807 E Tyler St,Athens,Henderson,807 E Tyler St,75751,01/23/2021      ,17:01:08        ,0,0,0,100,200,(903) 675-4211,https://www.brookshires.com/pharmacy-wellness
 Tom Thumb Pharmacy 296,Pharmacy,,6800 W Virginia Parkway,Mckinney,Collin,6800 W Virginia Parkway,75069,01/23/2021      ,00:38:47        ,0,0,0,0,100,(972) 542-0010,https://local.pharmacy.tomthumb.com/tx/mckinney/6800-w-virginia-pkwy.html
 University Of Texas Medicine Hill Count,Medical Practice,,25723 Old Federicksberg Rd,Boerne,Bexar,25723 Old Federicksberg Rd,78015,01/23/2021      ,05:19:50        ,0,0,0,500,1000,(210) 450-6800,https://hillcountry.uthscsa.edu/
 Tom Thumb Pharmacy 2963,Pharmacy,,5550 Fm 423,Frisco,Denton,5550 Fm 423,75036,01/23/2021      ,00:25:58        ,0,0,0,0,100,(214) 494-6226,https://local.pharmacy.tomthumb.com/tx/frisco/5550-fm-423.html
@@ -470,18 +470,18 @@ Legacy Community Health Mapleridge,Community Clinic,,6550 Mapleridge St Ste 106,
 Heavenly Hands Family Medical Clinic PLLC,Medical Practice,,Great Trinity Forest Way,Dallas,TX,7602 Great Trinity Forest Way,75217,01/23/2021      ,15:32:53        ,0,0,0,0,100,,
 Parkland Employee Physicians Office,Community Clinic,,7920 Elmbrook Dr Ste 120,Dallas,Dallas,7920 Elmbrook Dr Ste 120,75247,01/22/2021      ,08:11:16        ,0,410,410,2910,5000,(214) 590-2800,http://www.parklandhospital.com/
 Walgreens Pharmacy 06907,Pharmacy,,Airline Dr.,Houston,Harris,6600 Airline Drive,77076,01/23/2021      ,09:26:54        ,0,240,240,240,400,,
-Brookshires Pharmacy 125,Pharmacy,,511 N Stewart St,Azle,Tarrant,511 N Stewart St,76020,01/22/2021      ,18:48:58        ,0,0,0,100,300,(817) 444-0306,
+Brookshires Pharmacy 125,Pharmacy,,511 N Stewart St,Azle,Tarrant,511 N Stewart St,76020,01/23/2021      ,16:51:23        ,0,0,0,100,300,(817) 444-0306,
 Brookshires Pharmacy 15,Pharmacy,,1478 N Beaulah St,Hawkins,Wood,1478 N Beaulah St,75765,01/22/2021      ,16:49:13        ,0,0,0,100,300,(903) 769-3344,
-Brookshires Pharmacy 19,Pharmacy,,1105 W South Commerce St,Wills Point,Van Zandt,1105 W South Commerce St,75169,01/22/2021      ,18:37:14        ,0,0,0,50,200,(903) 873-8237,https://www.brookshires.com/pharmacy-wellness
+Brookshires Pharmacy 19,Pharmacy,,1105 W South Commerce St,Wills Point,Van Zandt,1105 W South Commerce St,75169,01/23/2021      ,16:45:49        ,0,0,0,40,200,(903) 873-8237,https://www.brookshires.com/pharmacy-wellness
 Brookshires Pharmacy 5,Pharmacy,,1203 Us Highway 380,Bridgeport,Wise,1203 Us Highway 380,76426,01/23/2021      ,15:11:50        ,0,0,0,70,300,(940) 683-1510,https://www.brookshires.com/pharmacy-wellness
-Super 1 Pharmacy 632,Pharmacy,,1800 South High,Longview,Gregg,1800 South High,75602,01/22/2021      ,18:29:12        ,0,0,0,100,200,(903) 234-2785,
+Super 1 Pharmacy 632,Pharmacy,,1800 South High,Longview,Gregg,1800 South High,75602,01/23/2021      ,17:14:04        ,0,0,0,90,200,(903) 234-2785,
 Knapp/UTRGV Family Residency Clinic,Community Clinic,,2810 W Expressway 83,Mercedes,Hidalgo,2810 W Expressway 83,78570,01/23/2021      ,09:36:53        ,260,0,260,660,1775,(956) 296-1831,https://uthealthrgv.org/locations/uthealthrgv-knapp-family-health-center/
 Healthcare Associates Of Southlake,Medical Practice,,2106 East State Hwy 114,Southlake,Tarrant,2106 East State Hwy 114,76092,01/23/2021      ,13:19:13        ,0,0,0,0,100,(817) 310-0421,https://healthcareassociates.com/location/southlake/
 Brookshires Pharmacy 14,Pharmacy,,925 Clarksville St,Paris,Lamar,925 Clarksville St,75460,01/21/2021      ,14:42:49        ,0,0,0,100,300,(903) 785-3297,https://www.brookshires.com/pharmacy-wellness
 Brookshires Pharmacy 9,Pharmacy,,2020 Roseland Blvd,Tyler,Smith,2020 Roseland Blvd,75701,01/23/2021      ,14:00:33        ,0,0,0,100,200,(903) 597-1358,
 Christus Trinity Clinic Tyler,Other,,520 E Douglas Blvd,Tyler,Smith,520 E Douglas Blvd,75702,01/21/2021      ,08:39:17        ,0,2100,2100,2100,4200,(903) 593-8441,http://www.tmfhs.org/
 Super 1 Pharmacy 625,Pharmacy,,113 N Northwest Loop 323,Tyler,Smith,113 N Northwest Loop 323,75702,01/23/2021      ,16:07:20        ,0,0,0,80,200,(903) 593-5369,https://www.super1foods.com/pharmacy-wellness
-Brookshires Pharmacy 8,Pharmacy,,747 Us Highway 259 N,Kilgore,Gregg,747 Us Highway 259 N,75662,01/21/2021      ,18:50:32        ,0,0,0,60,200,(903) 984-8639,https://www.brookshires.com/pharmacy-wellness
+Brookshires Pharmacy 8,Pharmacy,,747 Us Highway 259 N,Kilgore,Gregg,747 Us Highway 259 N,75662,01/23/2021      ,16:41:42        ,0,0,0,10,200,(903) 984-8639,https://www.brookshires.com/pharmacy-wellness
 Mission Regional Medical Center,Pharmacy,V,900 S Bryan Rd,Mission,Hidalgo,900 S Bryan Rd,78572,01/23/2021      ,09:19:43        ,0,0,0,702,4400,(956) 323-9000,http://missionrmc.org/
 Brookshires Pharmacy 109,Pharmacy,,609 Linda Dr,Daingerfield,Morris,609 Linda Dr,75638,01/22/2021      ,16:54:10        ,0,0,0,100,300,(903) 645-4552,https://www.brookshires.com/pharmacy-wellness
 Baylor Scott White MC - Centennial,Pharmacy,E,12505 Lebanon Rd,Frisco,Collin,12505 Lebanon Rd,75035,01/23/2021      ,11:43:44        ,0,0,0,260,800,(972) 579-8100,https://www.bswhealth.com/locations/irving/?y_source=1_MTM0MTE3MDAtNzE1LWxvY2F0aW9uLndlYnNpdGU=
@@ -532,7 +532,7 @@ Texas Department of Criminal Justice Holliday,Other,,295 IH 45N,Huntsville,,"295
 KINDRED HOSPITAL - MANSFIELD,Hospital,E,1802 Highway 157 N., Mansfield,Tarrant,"1802 Highway 157 N., Mansfield, TX, 76063",76063,01/19/2021      ,13:47:15        ,0,0,0,0,200,(817) 473-6101,
 HCA HOUSTON HEALTHCARE MAINLAND ,Hospital,R,6801 Emmett F Lowry Expy, Texas City,Galveston,"6801 Emmett F Lowry Expy, Texas City, TX, 77591",77591,01/14/2021      ,07:53:08        ,0,0,0,0,100,(409) 938-5000,https://hcahoustonhealthcare.com/locations/mainland?utm_campaign=corp_listings_mgmt&utm_source=google&utm_medium=business_listing
 Houston County Family Medical Clinic,Medical Practice,,1501 E. Loop 304,Crockett,TX,"1501 E Loop 304, Suite #50",75835,01/22/2021      ,08:04:47        ,0,0,0,0,100,,
-Kleberg County Sheriff's Office,Vaccine Hub,,1500 East King Avenue,Kingsville,Kleberg,1500 East King,78363,01/22/2021      ,20:04:12        ,0,1500,1500,1500,2000,361-595-8577,https://www.klebergcoso.org/
+Kleberg County Sheriff's Office,Vaccine Hub,,1500 East King Avenue,Kingsville,Kleberg,1500 East King,78363,01/23/2021      ,16:38:23        ,0,1000,1000,1000,2000,361-595-8577,https://www.klebergcoso.org/
 NORMA IGLESIAS AND ASSOCIATES ,Other,,RAUL LONGORIA ,SAN JUAN,HIDALGO ,1205 N RAUL LONGORIA RD STE H ,78589,01/23/2021      ,10:14:57        ,0,0,0,232,1200,(956) 702-0444,
 Dept of Public Health - Bowie County / Texarkana,Local Health Department,,902 W 12th Street,Texarkana,Bowie,902 W 12th Street,75501,01/21/2021      ,13:31:46        ,0,0,0,0,100,(903) 798-3250,http://ci.texarkana.tx.us/391/Health
 Family Medicine Associates Of El Paso,Medical Practice,,9398 Viscount Blvd,El Paso,El Paso,9398 Viscount Blvd,79925,01/23/2021      ,07:22:50        ,0,0,0,60,1200,(915) 594-1033,http://www.fma-elpaso.com/
@@ -571,7 +571,7 @@ Texas Tech Family And Community Medicine,Medical Practice,,9849 Kenworthy St,El 
 Walgreens Pharmacy 07242,Pharmacy,,3603 Lamar Ave,Paris,Lamar,3603 Lamar Ave,75460,01/14/2021      ,14:39:51        ,0,0,0,0,100,(903) 785-5380,Walgreens.com/covid19vac
 Legal Dealers Llc The Medicine Shoppe P,Other,,,Lake Jackson,Brazoria,109 Abner Jackson Pkwy Ste B,77566,01/22/2021      ,15:17:55        ,0,0,0,0,100,,
 MARTIN COUNTY HOSPITAL DISTRICT,Hospital,J,600 Interstate 20 East,Stanton,Martin,600 Interstate 20 East,79782,01/14/2021      ,11:01:06        ,0,0,0,0,300,(432) 607-3200,http://www.martincountyhospital.org/
-Legacy Community Health Southwest,Community Clinic,,6441 High Star Drive,Houston,Harris,6441 High Star Drive,77074,01/20/2021      ,09:28:56        ,0,60,60,2160,4200,(832) 548-5300,http://www.legacycommunityhealth.org/
+Legacy Community Health Southwest,Community Clinic,,6441 High Star Drive,Houston,Harris,6441 High Star Drive,77074,01/23/2021      ,16:56:31        ,0,30,30,2130,4200,(832) 548-5300,http://www.legacycommunityhealth.org/
 Methodist Specialty And Transplant Hosp,Hospital,,8026 Floyd Curl Dr,San Antonio,Bexar,8026 Floyd Curl Dr,78229,01/21/2021      ,04:25:20        ,0,370,370,1260,2500,(210) 575-8110,https://sahealth.com/locations/methodist-hospital-specialty-and-transplant/?utm_campaign=corp_listings_mgmt&utm_source=google&utm_medium=business_listing
 Lynns Lavega Pharmacy,Pharmacy,,2401 E Waco Dr,Waco,McLennan,2401 E Waco Dr,76705,01/22/2021      ,11:28:45        ,0,0,0,0,400,(254) 799-4949,http://www.lynnspharmacywaco.com/
 Texas Oncology Irving,Medical Practice,,2021 N Macarthur Blvd Ste 400,Irving,Dallas,2021 N Macarthur Blvd Ste 400,75061,01/22/2021      ,09:11:01        ,0,0,0,0,300,(972) 256-3537,https://www.texasoncology.com/cancer-centers/irving/irving/medical-oncology
@@ -636,7 +636,7 @@ Dept of Public Health - Montgomery County / Conroe,Local Health Department,,1300
 WISE HEALTH SURGICAL HOSPITAL - PARKWAY,Pharmacy,E,3200 N Tarrant Parkway,Fort Worth,Tarrant,3200 N Tarrant Parkway,76177,,,0,0,0,0,400,(817) 502-7300,https://www.wisehealthsurgicalhospital.com/locations/parkway/
 Gene Mcdaniel Do Pa,Medical Practice,,308 West Hwy 199,Springtown,Parker,308 West Hwy 199,76082,,,0,10,10,10,1000,(817) 523-5402,http://springtownfamilyhealth.com/
 Family Health Clinic Arlington,Medical Practice,,1115 E Pioneer Pkwy,Arlington,Tarrant,1115 E Pioneer Pkwy,76010,01/19/2021      ,12:33:41        ,0,0,0,0,100,(817) 460-2580,
-The Center For Cancer And Blood Disord,Medical Practice,,800 W Magnolia Ave,Fort Worth,Tarrant,800 W Magnolia Ave,76104,01/22/2021      ,15:29:07        ,0,0,0,100,200,(817) 759-7000,https://thecentertx.com/
+The Center For Cancer And Blood Disord,Medical Practice,,800 W Magnolia Ave,Fort Worth,Tarrant,800 W Magnolia Ave,76104,01/23/2021      ,17:13:15        ,0,0,0,70,200,(817) 759-7000,https://thecentertx.com/
 Candelaria Medical Center,Community Clinic,,8269 N Loop Dr,El Paso,El Paso,8269 N Loop Dr,79907,01/22/2021      ,12:14:38        ,0,0,0,0,100,(915) 591-1615,
 Walgreens Pharmacy 06562,Pharmacy,,1201 Ferris Ave,Waxahachie,Ellis,1201 Ferris Ave,75165,01/12/2021      ,12:02:08        ,0,0,0,0,100,(972) 923-3227,Walgreens.com/covid19vac
 Canadian Family Physicians,Community Clinic,,1010 S 4th St,Canadian,Hemphill,1010 S 4th St,79014,01/22/2021      ,07:53:15        ,0,0,0,90,400,(806) 323-8882,http://hchdst.org/
@@ -963,7 +963,7 @@ Austin Regional Clinic Sendero Springs,Medical Practice,,1025 Sendero Springs Dr
 BAYLOR MEDICAL CENTER - TROPHY CLUB,Hospital,E,,Trophy Club,Denton,"2850 TX-114, Trophy Club, TX, 76262",76262,01/23/2021      ,12:12:57        ,0,10,10,10,0,(817) 837-4600,
 Bay Colony Pediatrics,Medical Practice,,2251 Fm 646 Rd W,Dickinson,Galveston,2251 Fm 646 Rd W,77539,01/23/2021      ,06:28:01        ,0,0,0,0,100,(281) 614-2445,http://www.baycolonypediatrics.com/
 Austin Regional Clinic Pflugerville,Medical Practice,,15803 Windermere Dr Ste 103,Pflugerville,Travis,15803 Windermere Dr Ste 103,78660,01/23/2021      ,08:17:57        ,0,0,0,470,1000,(512) 989-2680,https://www.austinregionalclinic.com/clinics/arc-pflugerville?utm_source=online-directory&utm_campaign=yext&utm_content=location-pf
-Austin Regional Clinic Quarry Lake,Medical Practice,,4515 Seton Center Pkwy Ste 220,Austin,Travis,4515 Seton Center Pkwy Ste 220,78759,01/22/2021      ,08:47:05        ,0,0,0,480,1500,(512) 338-8388,https://www.austinregionalclinic.com/clinics/arc-quarry-lake?utm_source=online-directory&utm_campaign=yext&utm_content=location-ql
+Austin Regional Clinic Quarry Lake,Medical Practice,,4515 Seton Center Pkwy Ste 220,Austin,Travis,4515 Seton Center Pkwy Ste 220,78759,01/23/2021      ,17:00:33        ,0,0,0,420,1500,(512) 338-8388,https://www.austinregionalclinic.com/clinics/arc-quarry-lake?utm_source=online-directory&utm_campaign=yext&utm_content=location-ql
 Baylor College Of Medicine,Other,,6620 Main Street,Houston,Harris,6620 Main Street,77030,01/23/2021      ,05:33:20        ,0,2440,2440,2440,7000,(713) 798-4951,https://www.bcm.edu/
 Baylor Scott & White Family MC - Waxahachie,Medical Practice,E,2460 N Ih35e,Waxahachie,Ellis,2460 N I-35,75165,01/23/2021      ,13:08:58        ,0,0,0,0,200,(972) 817-6930,https://www.bswhealth.com/locations/family-medical-center-bumc/Pages/default.aspx?y_source=1_MTQ2NjMxODQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
 Clinica Hispana Ii Pa,Medical Practice,,8410 Fondren Rd,Houston,Harris,8410 Fondren Rd,77074,01/22/2021      ,09:50:32        ,0,880,880,880,1000,(713) 484-7455,
@@ -1369,7 +1369,7 @@ Kroger Pharmacy 577,Pharmacy,,7505 N Macarthur Blvd,Irving,Dallas,7505 N Macarth
 Kroger Pharmacy 570,Pharmacy,,5021 Teasley Ln,Denton,Denton,5021 Teasley Ln,76210,01/22/2021      ,11:08:19        ,0,0,0,0,200,(940) 380-4111,http://www.kroger.com/stores/details/035/00570?cid=loc_03500570PP_gmb
 Kroger Pharmacy 582,Pharmacy,,9135 Grapevine Hwy,North Richland Hills,Tarrant,9135 Grapevine Hwy,76180,01/22/2021      ,11:01:44        ,0,0,0,0,100,(817) 605-3937,http://www.kroger.com/stores/details/035/00582?cid=loc_03500582PP_gmb
 The Eddick Corporation,Pharmacy,,1015 Hillcrest Dr Ste B,Vernon,Wilbarger,1015 Hillcrest Dr Ste B,76384,01/22/2021      ,07:59:46        ,0,0,0,0,300,(530) 671-9633,http://www.edickins.com/
-Market Street Pharmacy 502,Pharmacy,,3405 50th St,Lubbock,Lubbock,3405 50th St,79413,01/22/2021      ,17:59:35        ,0,0,0,0,100,,https://local.pharmacy.marketstreetunited.com/tx/lubbock/3405-50th-st.html
+Market Street Pharmacy 502,Pharmacy,,3405 50th St,Lubbock,Lubbock,3405 50th St,79413,01/23/2021      ,16:56:14        ,0,0,0,0,100,,https://local.pharmacy.marketstreetunited.com/tx/lubbock/3405-50th-st.html
 Kroger Pharmacy 495,Pharmacy,,515 S Macarthur Blvd,Irving,Dallas,515 S Macarthur Blvd,75060,01/22/2021      ,11:48:34        ,0,0,0,0,200,(972) 254-9105,http://www.kroger.com/stores/details/035/00495?cid=loc_03500495PP_gmb
 Super 1 Pharmacy 610,Pharmacy,,1105 E Gentry Pkwy,Tyler,Smith,1105 E Gentry Pkwy,75702,01/22/2021      ,16:21:38        ,0,0,0,100,200,(903) 535-9467,https://www.super1foods.com/pharmacy-wellness
 United Pharmacy 518,Pharmacy,,2105 Avenue F Nw,Childress,Childress,2105 Avenue F Nw,79201,01/23/2021      ,14:31:14        ,0,0,0,0,100,,
@@ -1998,7 +1998,7 @@ Md Kids Pediatrics Oakcliff,Medical Practice,,3434 W Illinois Ave 3063,Dallas,Da
 Md Kids Pediatrics Lake Highlands,Medical Practice,,8330 Abrams,Dallas,Dallas,8330 Abrams,75243,01/22/2021      ,16:26:45        ,0,0,0,190,400,(214) 342-4400,http://mdmedicalgroup.us/
 Md Kids Pediatrics Cockrell Hill,Medical Practice,,4351 Dfw Turnpike Ste,Dallas,Dallas,4351 Dfw Turnpike Ste,75211,01/22/2021      ,08:14:04        ,0,0,0,190,400,(469) 488-4300,http://mdmedicalgroup.us/
 Md Kids Pediatrics W Plano,Medical Practice,,7800 Preston Rd Ste 300,Plano,Collin,7800 Preston Rd Ste 300,75024,01/22/2021      ,07:30:41        ,0,0,0,200,400,(972) 608-3800,http://mdmedicalgroup.us/
-Brookshires Pharmacy 73,Pharmacy,,675 E Sunset Blvd,Celina,Collin,675 E Sunset Blvd,75009,01/22/2021      ,17:14:53        ,0,0,0,80,400,(972) 382-3989,https://www.brookshires.com/pharmacy-wellness
+Brookshires Pharmacy 73,Pharmacy,,675 E Sunset Blvd,Celina,Collin,675 E Sunset Blvd,75009,01/23/2021      ,16:56:41        ,0,0,0,70,400,(972) 382-3989,https://www.brookshires.com/pharmacy-wellness
 Brookshires Pharmacy 108,Pharmacy,,Po Box 1709,Red Oak,Ellis,Po Box 1709,75154,01/22/2021      ,20:28:33        ,0,0,0,90,300,(972) 617-8570,https://www.brookshires.com/pharmacy-wellness
 Brookshires Pharmacy 106,Pharmacy,,125 Hall Rd,Seagoville,Dallas,125 Hall Rd,75159,01/23/2021      ,12:00:55        ,0,0,0,100,200,(972) 924-4220,https://www.brookshires.com/pharmacy-wellness
 Brookshires Pharmacy 130,Pharmacy,,590 W Main St,Hallsville,Harrison,590 W Main St,75650,01/23/2021      ,15:08:54        ,0,0,0,300,700,,
@@ -2043,7 +2043,7 @@ Jose I Sosa Md,Medical Practice,,151 Medical Dr,Pearsall,Frio,151 Medical Dr,780
 Kelseyseybold Webster,Medical Practice,,1010 S Ponds Dr,Webster,Harris,1010 S Ponds Dr,77598,01/22/2021      ,08:39:13        ,0,0,0,470,1000,(713) 442-4300,https://www.kelsey-seybold.com/find-a-location/clear-lake-clinic
 Jared Mataska Md,Medical Practice,,1339 East St,Graham,Young,1339 East St,76450,01/22/2021      ,16:24:33        ,0,0,0,200,400,(940) 521-5500,http://gmahealthtx.com/
 Kelsey Seybold Kingwood,Medical Practice,,25553 Us Highway 59,Porter,Montgomery,25553 Us Highway 59,77365,01/22/2021      ,08:37:50        ,0,0,0,600,1200,(713) 442-2100,https://www.kelsey-seybold.com/find-a-location/kingwood-clinic
-Kelsey Seybold Ft Bend Diagnostic Ctr,Medical Practice,,11555 University Blvd,Sugar Land,Fort Bend,11555 University Blvd,77478,01/22/2021      ,08:45:45        ,0,0,0,470,1000,(713) 442-9100,https://www.kelsey-seybold.com/find-a-location/fort-bend-medical-and-diagnostic-center
+Kelsey Seybold Ft Bend Diagnostic Ctr,Medical Practice,,11555 University Blvd,Sugar Land,Fort Bend,11555 University Blvd,77478,01/23/2021      ,17:17:17        ,0,0,0,450,1000,(713) 442-9100,https://www.kelsey-seybold.com/find-a-location/fort-bend-medical-and-diagnostic-center
 Kelsey Seybold Clinickaty,Medical Practice,,22121 Fm 1093 Rd,Richmond,Fort Bend,22121 Fm 1093 Rd,77407,01/23/2021      ,08:11:55        ,0,0,0,470,1000,(713) 442-4100,https://www.kelsey-seybold.com/find-a-location/katy-clinic
 Kelsey Seybold Clinic Houston 1,Medical Practice,,1111 Augusta Dr,Houston,Harris,1111 Augusta Dr,77057,01/22/2021      ,08:33:19        ,0,0,0,500,1000,(713) 442-0000,https://www.kelsey-seybold.com/
 Internal Medicine Associates Of Texas,Medical Practice,,7777 Forest Ln Ste C650,Dallas,Dallas,7777 Forest Ln Ste C650,75230,01/17/2021      ,20:40:34        ,0,20,20,20,100,(972) 566-8899,https://imedtexas.com/
@@ -2134,21 +2134,21 @@ Brookshires Pharmacy 13,Pharmacy,,809 Gilmer Rd,Sulphur Springs,Hopkins,809 Gilm
 Brookshires Pharmacy 94,Pharmacy,,1301 S Morgan St,Granbury,Hood,1301 S Morgan St,76048,01/22/2021      ,19:56:31        ,0,20,20,120,300,(817) 279-9840,https://www.brookshires.com/pharmacy-wellness
 Brookshires Pharmacy 53,Pharmacy,,120 S Waco St,Hillsboro,Hill,120 S Waco St,76645,01/23/2021      ,14:44:02        ,0,0,0,110,300,(254) 580-2953,https://www.brookshires.com/pharmacy-wellness
 Brookshires Pharmacy 133,Pharmacy,,1001 Joshua Station St,Joshua,Johnson,1001 Joshua Station St,76058,01/22/2021      ,18:50:38        ,0,160,160,160,300,,
-Brookshires Pharmacy 87,Pharmacy,,8929 State Highway 34 S,Quinlan,Hunt,8929 State Highway 34 S,75474,01/19/2021      ,18:18:07        ,0,0,0,0,200,(903) 356-6020,https://www.brookshires.com/pharmacy-wellness
+Brookshires Pharmacy 87,Pharmacy,,8929 State Highway 34 S,Quinlan,Hunt,8929 State Highway 34 S,75474,01/23/2021      ,15:47:50        ,0,0,0,180,200,(903) 356-6020,https://www.brookshires.com/pharmacy-wellness
 Super 1 Pharmacy 615,Pharmacy,,4811 Wesley St,Greenville,Hunt,4811 Wesley St,75401,01/21/2021      ,17:00:51        ,0,0,0,100,200,(903) 454-8701,https://www.super1foods.com/pharmacy-wellness
 Brookshires Pharmacy 74,Pharmacy,,6410 Wesley St,Greenville,Hunt,6410 Wesley St,75402,01/23/2021      ,15:47:27        ,0,0,0,10,200,(903) 455-1076,https://www.brookshires.com/pharmacy-wellness
 Brookshires Pharmacy 52,Pharmacy,,1603 Culver St,Commerce,Hunt,1603 Culver St,75428,01/22/2021      ,13:20:12        ,0,0,0,80,200,(903) 886-2867,https://www.brookshires.com/pharmacy-wellness
-Brookshires Pharmacy 68,Pharmacy,,210 S Seven Points Dr,Kemp,Henderson,210 S Seven Points Dr,75143,01/22/2021      ,20:07:40        ,0,0,0,100,200,(903) 432-2516,https://www.brookshires.com/pharmacy-wellness
+Brookshires Pharmacy 68,Pharmacy,,210 S Seven Points Dr,Kemp,Henderson,210 S Seven Points Dr,75143,01/23/2021      ,16:57:27        ,0,0,0,100,200,(903) 432-2516,https://www.brookshires.com/pharmacy-wellness
 Brookshires Pharmacy 84,Pharmacy,,703 Hwy 31 E,Chandler,Henderson,703 Hwy 31 E,75758,01/22/2021      ,20:01:32        ,0,0,0,100,200,(903) 849-4090,https://www.brookshires.com/pharmacy-wellness
 Super 1 Pharmacy 631,Pharmacy,,207 E End Blvd N,Marshall,Harrison,207 E End Blvd N,75670,01/22/2021      ,19:21:08        ,0,0,0,90,300,(903) 938-3096,https://www.super1foods.com/pharmacy-wellness
 Brookshires Pharmacy 23,Pharmacy,,1400 W Moore St,Terrell,Kaufman,1400 W Moore St,75160,01/22/2021      ,17:36:00        ,0,0,0,100,300,(936) 594-2549,https://www.brookshirebrothers.com/store-location/store-23
-Brookshires Pharmacy 64,Pharmacy,,1200 S 3rd St,Mabank,Kaufman,1200 S 3rd St,75147,01/22/2021      ,11:26:02        ,0,10,10,210,500,(870) 535-4044,http://www.brookshires.com/
+Brookshires Pharmacy 64,Pharmacy,,1200 S 3rd St,Mabank,Kaufman,1200 S 3rd St,75147,01/23/2021      ,17:17:16        ,0,0,0,200,500,(870) 535-4044,http://www.brookshires.com/
 Brookshires Pharmacy 54,Pharmacy,,2228 Island Byu,Bonham,Fannin,2228 Island Byu,75418,01/19/2021      ,18:27:26        ,0,0,0,130,300,(903) 583-2887,https://www.brookshires.com/pharmacy-wellness
 Brookshires Pharmacy 58,Pharmacy,,306 State Hwy 37 South,Mount Vernon,Franklin,306 State Hwy 37 South,75457,01/22/2021      ,18:53:18        ,0,0,0,90,300,(903) 537-2886,https://www.brookshires.com/pharmacy-wellness
 Fairway Medical Clinic I,Medical Practice,,4910 Telephone Rd,Houston,Harris,4910 Telephone Rd,77087,01/22/2021      ,08:23:46        ,0,40,40,530,1000,(713) 641-3900,http://www.fairwaymedicalclinic.com/
 Fairway Medical Clinic II,Medical Practice,,7701 W Bellfort St Ste B,Houston,Harris,7701 W Bellfort St Ste B,77071,01/23/2021      ,07:25:35        ,0,0,0,200,400,(713) 592-9500,http://www.drmussaji.com/
-Brookshires Pharmacy 45,Pharmacy,,3354 Gilmer Rd,Longview,Gregg,3354 Gilmer Rd,75604,01/22/2021      ,19:03:37        ,0,0,0,80,200,,
-Brookshires Pharmacy 127,Pharmacy,,11205 N State Hwy 289,Pottsboro,Grayson,11205 N State Hwy 289,75076,01/22/2021      ,07:32:08        ,0,0,0,100,400,,
+Brookshires Pharmacy 45,Pharmacy,,3354 Gilmer Rd,Longview,Gregg,3354 Gilmer Rd,75604,01/23/2021      ,17:18:35        ,0,0,0,70,200,,
+Brookshires Pharmacy 127,Pharmacy,,11205 N State Hwy 289,Pottsboro,Grayson,11205 N State Hwy 289,75076,01/23/2021      ,17:09:51        ,0,0,0,80,400,,
 Brookshires Pharmacy 50,Pharmacy,,200 W Us Highway 80,White Oak,Gregg,200 W Us Highway 80,75693,01/23/2021      ,15:38:23        ,0,0,0,50,200,(903) 297-9896,https://www.brookshires.com/pharmacy-wellness
 Comprehensive Orthopedics And Rehabilit,Medical Practice,,1120 W Campbell Rd,Richardson,Dallas,1120 W Campbell Rd,75080,01/23/2021      ,08:47:02        ,0,0,0,0,1500,(214) 575-2663,http://www.comprehensiveortho.com/
 Medina Lake Clinic,Medical Practice,,146 Laurel Vista Dr,Pipe Creek,Bandera,146 Laurel Vista Dr,78063,01/22/2021      ,08:09:57        ,0,0,0,100,300,(830) 751-3330,http://www.medinalakeclinic.com/
@@ -2192,11 +2192,11 @@ Super 1 Pharmacy 630,Pharmacy,,100 N 15th St,Corsicana,Navarro,100 N 15th St,751
 Brookshires Pharmacy 77,Pharmacy,,800 N Main St Ste A,Corsicana,Navarro,800 N Main St Ste A,75110,01/23/2021      ,15:05:57        ,0,0,0,100,200,(870) 863-7996,https://www.brookshires.com/pharmacy-wellness
 Brookshires Pharmacy 119,Pharmacy,,601 Palo Pinto St,Weatherford,Parker,601 Palo Pinto St,76086,01/22/2021      ,19:00:30        ,0,0,0,100,200,,
 Brookshires Pharmacy 126,Pharmacy,,Po Box 587,Springtown,Parker,Po Box 587,76082,01/23/2021      ,12:03:58        ,0,0,0,90,300,,
-Brookshires Pharmacy 61,Pharmacy,,Po Box 498,Whitehouse,Smith,Po Box 498,75791,01/22/2021      ,18:26:42        ,0,0,0,100,200,(903) 839-3715,https://www.brookshires.com/pharmacy-wellness
+Brookshires Pharmacy 61,Pharmacy,,Po Box 498,Whitehouse,Smith,Po Box 498,75791,01/23/2021      ,17:09:03        ,0,0,0,100,200,(903) 839-3715,https://www.brookshires.com/pharmacy-wellness
 Super 1 Pharmacy 642,Pharmacy,,172 Centennial Pkwy,Tyler,Smith,172 Centennial Pkwy,75703,01/22/2021      ,20:16:42        ,0,0,0,90,200,(903) 525-6923,https://www.super1foods.com/pharmacy-wellness
-Super 1 Pharmacy 605,Pharmacy,,3828 Troup Hwy,Tyler,Smith,3828 Troup Hwy,75703,01/22/2021      ,18:04:48        ,0,0,0,100,200,(903) 581-9666,https://www.super1foods.com/pharmacy-wellness
-Brookshires Pharmacy 4,Pharmacy,,959 East Us Hwy 69,Emory,Rains,959 East Us Hwy 69,75440,01/22/2021      ,18:25:28        ,0,0,0,100,200,,
-Brookshires Pharmacy 3,Pharmacy,,521 S Main,Lindale,Smith,521 S Main,75771,01/22/2021      ,09:17:21        ,0,0,0,100,200,,
+Super 1 Pharmacy 605,Pharmacy,,3828 Troup Hwy,Tyler,Smith,3828 Troup Hwy,75703,01/23/2021      ,17:17:47        ,0,0,0,100,200,(903) 581-9666,https://www.super1foods.com/pharmacy-wellness
+Brookshires Pharmacy 4,Pharmacy,,959 East Us Hwy 69,Emory,Rains,959 East Us Hwy 69,75440,01/23/2021      ,17:04:42        ,0,0,0,100,200,,
+Brookshires Pharmacy 3,Pharmacy,,521 S Main,Lindale,Smith,521 S Main,75771,01/23/2021      ,17:17:59        ,0,0,0,80,200,,
 Brookshires Pharmacy 39,Pharmacy,,20100 Hwy 155 S,Flint,Smith,20100 Hwy 155 S,75762,01/22/2021      ,17:42:17        ,0,0,0,100,200,(903) 825-7418,https://www.brookshires.com/pharmacy-wellness
 Market Street Pharmacy 679,Pharmacy,,4450 Buffalo Gap Rd,Abilene,Taylor,4450 Buffalo Gap Rd,79606,01/14/2021      ,13:48:20        ,0,0,0,0,100,(325) 695-4690,https://local.pharmacy.marketstreetunited.com/tx/abilene/4450-buffalo-gap-rd.html
 Market Street Pharmacy 543,Pharmacy,,4205 98th St,Lubbock,Lubbock,4205 98th St,79423,01/23/2021      ,08:43:31        ,0,0,0,0,100,(806) 788-2015,https://local.pharmacy.marketstreetunited.com/tx/lubbock/4425-19th-st.html
@@ -2231,10 +2231,10 @@ Healthcare Associates Of Irving Llp - Mansfield,Medical Practice,,221 Regency Pk
 Healthcare Associates Of Irving Llp Vir - McKinney 2,Hospital,,2760 Virginia Pkwy,Mckinney,Collin,2760 Virginia Pkwy,75071,01/22/2021      ,15:07:00        ,0,40,40,240,200,(972) 258-7499,https://healthcareassociates.com/location/flagship-office/
 Healthcare Associates Of Irving Llp - Rockwall,Medical Practice,,6435 South Fm 549,Rockwall,Rockwall,6435 South Fm 549,75032,01/22/2021      ,14:56:17        ,0,70,70,170,200,(972) 258-7499,https://healthcareassociates.com/location/flagship-office/
 Chi St Joseph Primary Austins Colony,Medical Practice,,2410 Boonville Rd,Bryan,Brazos,2410 Boonville Rd,77808,01/22/2021      ,09:22:54        ,0,0,0,0,300,(979) 690-4808,http://chistjoseph.org/locations/bryan-austins-colony-primary-care
-United pharmacy 521,Pharmacy,,2522 Old Iowa Park Rd,Wichita Falls,Wichita,"2522 Old Iowa Park Road, Wichita Falls, TX, USA",76306,01/22/2021      ,09:09:31        ,0,0,0,0,100,(940) 322-1114,https://local.pharmacy.unitedsupermarkets.com/tx/wichita-falls/2522-iowa-park-rd.html
-Brookshires Pharmacy 70,Pharmacy,,213 Doctor M Roper Pkwy N,Bullard,Smith,213 Doctor M Roper Pkwy N,75757,01/22/2021      ,19:41:11        ,0,0,0,100,200,(903) 894-9648,https://www.brookshires.com/pharmacy-wellness
+United pharmacy 521,Pharmacy,,2522 Old Iowa Park Rd,Wichita Falls,Wichita,"2522 Old Iowa Park Road, Wichita Falls, TX, USA",76306,01/23/2021      ,16:38:46        ,0,0,0,0,100,(940) 322-1114,https://local.pharmacy.unitedsupermarkets.com/tx/wichita-falls/2522-iowa-park-rd.html
+Brookshires Pharmacy 70,Pharmacy,,213 Doctor M Roper Pkwy N,Bullard,Smith,213 Doctor M Roper Pkwy N,75757,01/23/2021      ,16:44:23        ,0,0,0,100,200,(903) 894-9648,https://www.brookshires.com/pharmacy-wellness
 James Haden Md,Medical Practice,,1000 College Ave,Fort Worth,Tarrant,1000 College Ave,76104,01/22/2021      ,07:42:46        ,0,20,20,520,1000,(817) 336-8855,http://www.allergyfortworth.com/
-Brookshires Pharmacy 32,Pharmacy,,880 E State Highway 243,Canton,Van Zandt,880 E State Highway 243,75103,01/22/2021      ,18:13:46        ,0,0,0,100,200,,
+Brookshires Pharmacy 32,Pharmacy,,880 E State Highway 243,Canton,Van Zandt,880 E State Highway 243,75103,01/23/2021      ,16:56:34        ,0,0,0,100,200,,
 Kroger Pharmacy 366,Pharmacy,,12434 State Highway 249,Houston,Harris,12434 State Highway 249,77086,01/20/2021      ,13:45:16        ,0,0,0,0,100,(281) 272-0005,https://www.kroger.com/stores/details/034/00366?cid=loc_03400366_gmb
 Houston Area Community Services,Community Clinic,,2150 W 18th St Ste 300,Houston,Harris,2150 W 18th St Ste 300,77008,01/15/2021      ,16:55:02        ,0,0,0,0,100,(281) 537-8627,http://hacstxs.org/contact-us/
 Brookshires Pharmacy 60,Pharmacy,,Po Box 934,Quitman,Wood,Po Box 934,75783,01/23/2021      ,16:29:24        ,0,0,0,100,300,(972) 782-8601,https://www.brookshires.com/pharmacy-wellness
