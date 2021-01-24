@@ -16,9 +16,6 @@ jobs:
       - name: Fetch 'Accessible Vaccine Dashboard Data'
         run: wget https://www.dshs.state.tx.us/immunize/covid19/COVID-19-Vaccine-Data-by-County.xls -O AccessibleVaccineDashboardData/$TEXAS_DATE.xlsx
         continue-on-error: true
-      - name: Fetch 'Texas Vaccine Provider Data'
-        run: wget https://genesis.soc.texas.gov/files/accessibility/vaccineprovideraccessibilitydata.csv -O TexasVaccineProviderData/$TEXAS_DATE.csv
-        continue-on-error: true
       - name: Fetch 'Confirmed Cases over Time by County'
         run: wget https://www.dshs.state.tx.us/coronavirus/TexasCOVID19DailyCountyCaseCountData.xlsx -O ConfirmedCasesOverTimeByCounty/$TEXAS_DATE.xlsx
         continue-on-error: true
