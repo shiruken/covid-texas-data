@@ -1,7 +1,7 @@
 name: Update Texas Vaccine Provider Data
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 */4 * * *"
   workflow_dispatch:
 jobs:
   update-data:
