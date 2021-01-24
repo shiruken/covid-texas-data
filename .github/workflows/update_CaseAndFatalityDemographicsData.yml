@@ -1,4 +1,4 @@
-name: Update 'Case and Fatality Demographics Data'
+name: Update Case and Fatality Demographics Data
 on:
   schedule:
     - cron: "0 6-20 * * 5"
