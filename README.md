@@ -2,6 +2,9 @@
 
 Archive data files from the [Texas COVID-19 Data website](https://www.dshs.state.tx.us/coronavirus/additionaldata/) and organize by date (`YYYY-MM-DD`).
 
+#### My Visualizations
+* [Texas COVID-19 Hospital Resource Usage](https://covid-texas.csullender.com/)
+* [Texas COVID-19 Vaccine Tracker](https://covid-texas.csullender.com/vaccine/)
 
 ### Data Files Overwritten Daily by Texas DSHS
 
