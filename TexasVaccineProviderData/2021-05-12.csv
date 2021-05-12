@@ -1,4 +1,8 @@
 NAME,TYPE,TSA,STREET,CITY,COUNTY,ADDRESS,ZIP,LAST_UPDATE_VAC,LAST_UPDATE_TIME_VAC,PFIZER_AVAILABLE,MODERNA_AVAILABLE,PFIZER_AVAILABLE2,MODERNA_AVAILABLE2,JJ_AVAILABLE,VACCINES_AVAILABLE,VACCINES_AVAILABLE2,PublicPhone,WEBSITE
+"Corpus Christi Metro Ministries, Inc",Community Clinic,,1919 Leopard St,Corpus Christi,Nueces,1919 Leopard St,78408,05/10/2021      ,09:51:52        ,0,250,0,300,245,495,300,(361) 887-0151,
+Franklin Medical Pllc,Other,,11331 James Watt Bldg 100,El Paso,El Paso,11331 James Watt Bldg 100,79936,05/06/2021      ,09:44:21        ,0,90,0,0,0,90,0,,
+NATNAO,Pharmacy,,189 North Plano Rd,Richardson,Dallas,189 North Plano Rd,75081,05/06/2021      ,10:46:43        ,0,850,0,0,0,850,0,,
+Brother Bills Helping Hand,Community Clinic,,N Westmoreland Rd,Dallas,Texas,"3906 N. Westmoreland Rd., ",75212,05/06/2021      ,08:50:47        ,0,270,0,0,0,270,0,(817) 992-2075,
 White Cross Rx Llc,Other,,1303 Mccullough ,San Antonio,Bexar,1303 Mccullough Ave #128,78212,05/11/2021      ,14:02:57        ,0,30,0,0,0,30,0,,
 Walgreens Pharmacy 15681,Federal Allocation,,,Katy,,9423 SPRING GREEN BLVD , 77494,05/11/2021      ,22:12:14        ,36,200,0,0,65,301,0,,
 Walgreens Pharmacy 03224,Pharmacy,,,,,"6901 SAN PEDRO AVE San Antonio, TX 78216",,05/11/2021      ,20:55:07        ,102,0,0,0,0,102,0,(210) 349-9809,https://www.walgreens.com/locator/walgreens-6901+san+pedro+ave-san+antonio-tx-78216/id=3224
@@ -12,7 +16,7 @@ COSTCO PHARMACY 669,Federal Allocation,,2601 E. State Hwy 114,Southlake,Tarrant,
 Walgreens Pharmacy 11272,Pharmacy,,,,,"12200 BEE CAVE PKWY Bee Cave, TX 78738",,05/11/2021      ,18:28:54        ,48,0,48,0,0,48,48,(512) 263-0570,https://www.walgreens.com/locator/walgreens-12200+bee+cave+pkwy-bee+cave-tx-78738/id=11272
 KEARNEY PARK PHARMACY,Federal Allocation,,502 W Kearney Stste 900,Mesquite,Dallas,502 W Kearney Stste 900,75149,05/11/2021      ,18:23:49        ,0,0,0,0,80,80,0,,
 El Paso Pulmonary Association West,Medical Practice,,4305 N Mesa St,El Paso,El Paso,4305 N Mesa St Ste A,79902,05/11/2021      ,16:51:55        ,0,810,0,0,95,905,0,(915) 532-2477,http://www.elpasopulmonary.com/
-"Cyril Wolf, M.D",Medical Practice,,929 Gessner Rd. Suite 2240,Houston,Harris,"929 Gessner Road, Houston, TX, USA",77024,05/11/2021      ,07:43:44        ,0,200,0,0,0,200,0,,
+"Cyril Wolf, M.D",Medical Practice,,929 Gessner Rd. Suite 2240,Houston,Harris,"929 Gessner Road, Houston, TX, USA",77024,05/12/2021      ,06:24:58        ,0,200,0,0,0,200,0,,
 Grace Southern Medical Clinic,Medical Practice,,6300 Samuell Blvd Ste 120,Dallas,Dallas,6300 Samuell Blvd,75228,05/11/2021      ,17:46:53        ,0,90,0,0,0,90,0,(214) 709-6305,
 IntegriCare Pharmacy,Pharmacy,,1505 W. McDermott Dr. Ste 125,ALLEN,TX,1505 W. McDermott Dr. Ste 125,75013,05/11/2021      ,17:16:48        ,0,90,0,0,0,90,0,,
 "Dr. Mario Sanchez, DO",Other,V,106 N Main St,La Feria,Cameron,"106 N Main St, La Feria, TX 78559",78559,05/11/2021      ,17:04:43        ,0,60,0,160,0,60,160,956-797-2002,
@@ -37,7 +41,6 @@ Walgreens Pharmacy 04133,Pharmacy,,3707 Spencer Hwy,Pasadena,Harris,"3707 Spence
 ExxonMobil - GCGV,Community Clinic,,,Gregory,San Patricio,4589 Fm 2986,78359,05/11/2021      ,14:59:55        ,0,100,0,0,0,100,0,,
 Medwin Family Medicine and Rehab ,Medical Practice,,Jose Marti Blvd ,Brownsville,Cameron ,315 Jose Marti Blvd ,78526,05/11/2021      ,17:13:07        ,0,100,0,0,0,100,0,956-546-7530,
 EHE International,Other,,5555 San Felipe St,Houston,Harris,"5555 San Felipe Street, Ste 800",77056,05/11/2021      ,14:42:59        ,0,80,0,0,0,80,0,(713) 622-9900,
-Franklin Medical Pllc,Other,,11331 James Watt Bldg 100,El Paso,El Paso,11331 James Watt Bldg 100,79936,05/06/2021      ,09:44:21        ,0,90,0,0,0,90,0,,
 Augustine Mabatah,Pharmacy,,8300 HOMESTEAD RD STE 2 Houston 77028,Houston,Harris,8300 Homestead Road,77028,05/11/2021      ,14:05:16        ,0,180,0,0,0,180,0,,
 Luna Medical Clinic,Community Clinic,,,PORT ISABEL,,112 W QUEEN ISABELLA STE CC ,78578,05/11/2021      ,13:56:44        ,0,82,0,0,0,82,0,,
 UT HEALTH - JACKSONVILLE,Hospital,G,501 S Ragsdale St, Jacksonville,Cherokee,"501 S Ragsdale St, Jacksonville, TX, 75766",75766,05/11/2021      ,13:54:41        ,0,10,0,60,200,210,60,(903) 541-5000,
@@ -74,7 +77,6 @@ Christus Trinity Clinic South Broadway Commons,Other,H,8288 S. Broadway,Tyler,Sm
 Friedman Family Practice,Pharmacy,,,Frisco,Denton,11560 Teel Pkwy,75033,05/06/2021      ,08:49:06        ,0,1060,0,0,0,1060,0,,
 Austin Teen Health Center,Other,,1514 Avenue N 12,Galveston,Galveston,1514 Avenue N 12,77550,04/28/2021      ,10:03:20        ,0,100,0,0,0,100,0,,
 Alemu Medical Home,Other,,,Luling,Caldwell,702 S Hackberry Ave,78648,05/06/2021      ,16:53:21        ,0,325,0,0,0,325,0,(830) 445-4131,
-NATNAO,Pharmacy,,189 North Plano Rd,Richardson,Dallas,189 North Plano Rd,75081,05/06/2021      ,10:46:43        ,0,850,0,0,0,850,0,,
 Walgreens Pharmacy 15515,Federal Allocation,,Katy Fwy,Houston,Harris,18400 Katy Fwy,77094,05/11/2021      ,17:04:45        ,0,280,0,0,0,280,0,,
 Soch Pharmacy,Federal Allocation,,8067 WEST VIRGINIA DR #200,DALLAS,Dallas,8067 WEST VIRGINIA DR #200 DALLAS 75237, 75237,05/10/2021      ,17:32:57        ,0,0,0,0,195,195,0,469-498-0500,
 GoldStar Pharmacy,Federal Allocation,,,College Station,Brazos,4421 State Highway 6 S,77845,05/11/2021      ,11:04:25        ,0,0,0,240,0,0,240,,
@@ -82,7 +84,6 @@ Strawberry Family Drug & Pharmacy,Pharmacy,,,Pasadena,Harris,1802 STRAWBERRY RD 
 HENDRICK MEDICAL CENTER,Hospital,D,1900 Pine Street,Abilene,Taylor,1900 Pine Street,79601,05/11/2021      ,11:10:06        ,0,0,90,0,0,0,90,325-692-5600,https://www.abilenetx.gov/CivicAlerts.aspx?AID=762
 New Dimension Pharmacy,Pharmacy,,1102 Pinemont Dr,Houston,Harris,"1102 Pinemont Drive, Houston, TX, USA",77018,05/11/2021      ,18:50:35        ,2214,100,0,639,300,2614,639,,
 CVS PHARMACY 7631,Pharmacy,,,FORT WORTH,,2603 W BERRY ST , 76109,05/03/2021      ,00:00:00        ,0,0,0,0,205,205,0,,
-Brother Bills Helping Hand,Community Clinic,,N Westmoreland Rd,Dallas,Texas,"3906 N. Westmoreland Rd., ",75212,05/06/2021      ,08:50:47        ,0,270,0,0,0,270,0,(817) 992-2075,
 CVS PHARMACY 6794,Pharmacy,,2706 JACKSBORO HWY,FORT WORTH,,2706 JACKSBORO HWY,76114,05/03/2021      ,00:00:00        ,995,0,0,0,0,995,0,,
 CVS PHARMACY 10523,Pharmacy,,,FRISCO ,,270 STONEBROOK PKWY,75036,05/03/2021      ,00:00:00        ,0,0,0,0,389,389,0,,
 CVS Pharmacy 10177,Pharmacy,,2720 FM 1463,KATY,Fort Bend,2720 FM 1463,77494,05/03/2021      ,00:00:00        ,0,130,0,81,0,130,81,,
@@ -104,7 +105,6 @@ Austin Regional Clinic Sendero Springs,Medical Practice,,1025 Sendero Springs Dr
 Fresenius Medical Care of Burleson,Other,,,Fort Worth,Tarrant,200 MCPHERSON RD ,76140,05/11/2021      ,10:33:24        ,0,0,0,0,15,15,0,,
 Texas Christian University Health Center,Other,E,2825 Stadium Dr,Fort Worth,Tarrant,2825 Stadium Dr,76109,05/11/2021      ,11:01:53        ,1716,0,1426,0,0,1716,1426,(817) 257-7940,http://www.healthcenter.tcu.edu/
 "Jameson Bowles DO, PLLC",Community Clinic,,Hwy 59,New Caney,Montgomery,17516 US Hwy 59 suite 100,77357,05/05/2021      ,08:40:31        ,0,340,0,0,0,340,0,(832) 855-3080,v.larson@tx-urgentcare.com
-LIBERTY-DAYTON REGIONAL MEDICAL CENTER,Hospital,R,1353 N Travis St,Liberty,Liberty,1353 N Travis St,77575,05/11/2021      ,10:09:29        ,0,0,30,0,0,0,30,(936) 336-9175,http://www.libertydaytonrmc.com/
 SAINT CAMILLUS MEDICAL CENTER,Hospital,E,1612 Hurst Town Center Drive, Hurst,Tarrant,"1612 Hurst Town Center Drive, Hurst, TX, 76054",76054,05/04/2021      ,12:41:45        ,618,0,1140,0,0,618,1140,(817) 519-3700,
 Medical Clinic,Other,,,Mesquite,Dallas,6500 NORTHWEST DR STE 350,75150,05/07/2021      ,14:18:58        ,6961,0,0,0,0,6961,0,(972) 373-4191,
 Chrysalis Group LLC,Federal Allocation,,1259 Fm 1463 Rd Ste 700,Katy,Fort Bend,1259 FM 1463 RD STE 700 Katy 77494,77494,04/27/2021      ,14:47:37        ,0,90,0,0,100,190,0,,
@@ -538,7 +538,7 @@ CAMILLE GEORGE,Other,,,Houston,Harris,4126 Southwest Fwy,77027,05/11/2021      ,
 Gift of Life Hospice LLC,Community Clinic,,,Dallas,Dallas,13601 Preston Road,75240,05/10/2021      ,17:13:11        ,0,45,0,0,0,45,0,,
 Little Lantern Clinic,Community Clinic,,4541 N Josey Ln,Carrollton,Denton,4541 N Josey Ln,75010,05/07/2021      ,12:03:31        ,0,96,0,0,0,96,0,,
 Greater Texoma Health Clinic,Other,,900 N Armstrong Ave,Denison,Grayson,900 N Armstrong Ave,75020,05/07/2021      ,11:52:55        ,0,71,0,0,0,71,0,,
-Carvajal Pharmacy-San Antonio-3410 Roosevelt Ave ,Pharmacy,,3410 Roosevelt Ave,San Antonio,Bexar,"3410 Roosevelt Avenue, San Antonio, Texas 78214",78214,05/11/2021      ,08:25:41        ,400,0,300,1000,900,1300,1300,210-922-2176,https://www.carvajalpharmacy.com/
+Carvajal Pharmacy-San Antonio-3410 Roosevelt Ave ,Pharmacy,,3410 Roosevelt Ave,San Antonio,Bexar,"3410 Roosevelt Avenue, San Antonio, Texas 78214",78214,05/12/2021      ,06:44:44        ,400,0,300,1000,900,1300,1300,210-922-2176,https://www.carvajalpharmacy.com/
 Burleson Pharmacy,Pharmacy,,Sw Wilshire Blvd,Burleson,Johnson,344 Sw Wilshire Blvd Ste P,76028,05/11/2021      ,15:44:31        ,0,500,0,0,50,550,0,,
 "L & B DRUG, INC.",Pharmacy,,701 HICKORY ST,Abilene,,"701 HICKORY ST Abilene TX,  79601",79601,05/11/2021      ,11:56:41        ,0,260,0,0,0,260,0,,
 Ava Healthcare LLC,Pharmacy,,1600 W Louisiana St,McKinney,Collin,"1600 West Louisiana Street, McKinney, TX, USA",75069,05/10/2021      ,12:51:37        ,0,290,0,0,0,290,0,,
@@ -650,7 +650,7 @@ Richards Pharmacy - Donna,Federal Allocation,,605 N Main St,Donna,Hidalgo,605 No
 Infinity Pharmacy Solutions llc,Federal Allocation,,3313 Essex Dr ,Richardson,Collin,3313 Essex Dr #200,75082,05/11/2021      ,13:21:42        ,0,0,0,0,75,75,0,,
 "SMRX,INC",Federal Allocation,,,,,2002 GRANT AVE # A El Paso 79930,,05/11/2021      ,17:56:58        ,0,40,0,0,100,140,0,,
 Med Point Pharmacy LLC,Federal Allocation,,Bellaire Blvd,Houston,Harris,10008 Bellaire Blvd #114,77072,05/11/2021      ,23:29:50        ,0,170,0,0,0,170,0,,
-BRUCES PHARMACY,Federal Allocation,,6001 39th St,Groves,Jefferson,6001 39th Street,77619,05/11/2021      ,08:05:33        ,0,0,0,69,0,0,69,(409) 962-4431,
+BRUCES PHARMACY,Federal Allocation,,6001 39th St,Groves,Jefferson,6001 39th Street,77619,05/12/2021      ,06:05:54        ,0,0,0,69,0,0,69,(409) 962-4431,
 College Park Pharmacy,Federal Allocation,,3115 College Park Drive Suite 103a,Conroe,Montgomery,3115 College Park Drive Suite 103a,,05/06/2021      ,20:32:02        ,0,0,0,0,120,120,0,,
 Wichita Falls Pharmacy Inc.,Federal Allocation,, Brook Ave,Wichita Falls,Wichita,"1013 Brook Avenue, Wichita Falls, TX, USA",76301,05/11/2021      ,09:07:15        ,0,360,0,0,835,1195,0,,
 Torres Family Pharmacy Of Falfurrias,Federal Allocation,,, Falfurrias,,"1118 S. Highway 281 Business, Falfurrias 78355",78355,05/11/2021      ,18:12:49        ,0,0,0,0,170,170,0,,
@@ -2242,7 +2242,7 @@ Centennial Primary Care,Other,,,Frisco,Collin,5520 Independence Pkwy Ste 201,750
 Lamar University Student Health Center,Other,,,Beaumont,Jefferson,857 E Virginia St,77705,05/10/2021      ,14:27:13        ,0,270,0,0,270,540,0,,
 Schnitzler Cardiovascular Consultants Pllc,Other,,8122 Datapoint Dr # 700,San Antonio,Bexar,"8122 Datapoint Dr # 700, San Antonio, TX 78229",78229,05/10/2021      ,15:34:45        ,426,300,1170,0,300,1026,1170,(210) 641-5888,https://sccheart.com/
 Motiva Enterprises-Houston,Other,,,Houston,,333 CLAY ST # 500,77002,05/11/2021      ,08:11:41        ,0,100,0,0,0,100,0,,
-Donnie Evans MD PA,Medical Practice,,18131 Obelisk Bay dr,Cypress,Harris,18131 Obelisk Bay dr,77429,05/10/2021      ,22:00:11        ,0,100,0,0,0,100,0,430-888-0301,
+Donnie Evans MD PA,Medical Practice,,18131 Obelisk Bay dr,Cypress,Harris,18131 Obelisk Bay dr,77429,05/12/2021      ,06:52:05        ,0,100,0,0,0,100,0,430-888-0301,
 Super Value Pharmacy,Pharmacy,,Industrial Blvd,Euless,Tarrant,720 N INDUSTRIAL BLVD,76039,05/11/2021      ,08:16:11        ,0,1210,0,0,690,1900,0,(817) 283-5308,
 Umc Internal Medicine,Medical Practice,,808 Joliet Ave,Lubbock,Lubbock,808 Joliet Ave,79415,05/11/2021      ,16:53:05        ,0,180,0,0,0,180,0,(806) 761-0566,https://www.umchealthsystem.com/medical-services/umc-clinics/details/umc-internal-medicine
 OTTO KAISER MEMORIAL - KENEDY,Hospital,P,3349 US-181,Kenedy,Karnes,"3349 US-181, Kenedy, TX 78119",78119,05/10/2021      ,12:15:59        ,561,0,0,0,0,561,0,(830) 583-3401,http://www.okmh.org/
@@ -2367,7 +2367,7 @@ Star Wellness,Other,,451 Westpark Way Ste 1,Euless,Tarrant,451 Westpark Way Ste 
 Clearsky Rehabilitation Hospital Of Flowers mound,Hospital,E,3100 Peters Colony Road,Flower Mound,Denton,3100 Peters Colony Road,75022,05/06/2021      ,08:51:57        ,0,0,0,4,0,0,4,469-933-2855,
 Marfa Country Clinic,Community Clinic,,, MARFA,,105 EAST OAK STREET ,79843,05/07/2021      ,16:50:21        ,0,0,0,0,95,95,0,,
 Sunflower Rx,Pharmacy,,700 N Grant Ave Ste 150,Odessa,Ector,700 N Grant Ave Ste 150,79761,05/08/2021      ,11:09:25        ,0,800,0,0,235,1035,0,(432) 606-2394,https://www.sunflowerrx.com/
-Start Center For Cancer Care,Medical Practice,,4383 Medical Drive,San Antonio,Bexar,4383 Medical Drive,78229,05/11/2021      ,06:55:25        ,0,60,0,500,0,60,500,(210) 593-5700,http://thestartcenter.com/
+Start Center For Cancer Care,Medical Practice,,4383 Medical Drive,San Antonio,Bexar,4383 Medical Drive,78229,05/12/2021      ,06:53:48        ,0,60,0,520,0,60,520,(210) 593-5700,http://thestartcenter.com/
 PARK LANE ALLERGY AND ASTHMA CENTER,Other,,,Dallas,Dallas,9101 N Central Expressway,75231,05/10/2021      ,16:08:35        ,0,60,0,0,0,60,0,,
 STEPHENS MEMORIAL HOSPITAL,Hospital,D,200 S Geneva St, Breckenridge,Stephens,"200 S Geneva St, Breckenridge, TX, 76424",76424,05/03/2021      ,08:47:04        ,0,390,0,430,145,535,430,(254) 559-2241,http://www.smhtx.com/
 SWISHER MEMORIAL HOSPITAL,Community Clinic,A,539 Se 2nd St,Tulia,Swisher,539 Se 2nd St,79088,05/11/2021      ,08:59:25        ,0,200,0,200,0,200,200,(806) 995-3581,http://www.swisherhospital.com/
@@ -2383,7 +2383,6 @@ InHouse Physicians/LivingWell Clinic,Other,,4700 Marine Creek Pkwy,Fort Worth,US
 Balance Family Medicine,Medical Practice,,1917 Ashland St,Houston,Harris,"1917 Ashland Street, Houston, TX, USA",77008,05/11/2021      ,12:16:56        ,0,50,0,0,0,50,0,,
 Orthopaedic Specialists Of Austin,Medical Practice,,4611 Guadalupe St,Austin,Travis,4611 Guadalupe St,78751,05/10/2021      ,08:59:29        ,0,80,0,0,0,80,0,(512) 476-2830,http://www.orthoaustin.com/
 Nuestra Clinica Del Valle - Donna,Community Clinic,,105 S 10th St,Donna,HIDALGO,"105 S 10th St, Donna, TX 78537",78537,05/11/2021      ,16:10:26        ,0,20,0,0,155,175,0,+1 956 464 5809,
-"Corpus Christi Metro Ministries, Inc",Community Clinic,,1919 Leopard St,Corpus Christi,Nueces,1919 Leopard St,78408,05/10/2021      ,09:51:52        ,0,250,0,300,245,495,300,(361) 887-0151,
 Walgreens Pharmacy 21238,Pharmacy,,1501 W Church St,Livingston,,1501 W Church St Ste 500 Livingston 77351,77351,05/06/2021      ,19:08:43        ,114,0,0,0,114,228,0,,
 Kidz Plus Medical Clinic,Pharmacy,,9725 Homestead Rd,Houston,Harris,9725 Homestead Rd,77016,05/10/2021      ,15:20:41        ,0,244,0,0,0,244,0,,
 Pedidocs Pllc,Community Clinic,,9838 Westover Hills Blvd,San Antonio,Bexar,9838 Westover Hills Blvd San Antonio 78251,78251,05/10/2021      ,16:04:31        ,1000,0,0,0,0,1000,0,+12107334362,http://www.sapedidocs.com/
@@ -2453,6 +2452,7 @@ GOLDEN PLAINS COMMUNITY HOSPITAL,Hospital,A,100 Medical Dr, Borger,Hutchinson,"1
 "Oaks Ambulatory Surgery Center, LLC",Other,,4126 Southwest Fwy,Houston,Harris,"4126 Southwest Freeway, Houston, TX, USA",77027,05/11/2021      ,09:07:53        ,0,20,0,0,0,20,0,,
 The University of Texas Health Science Center at Houston,Vaccine Hub,Q,1851 Crosspoint Ave.,Houston,Harris,1851 Crosspoint Ave.,77054,05/11/2021      ,14:23:25        ,0,0,0,0,0,0,0,713-500-7476,https://www.utphysicians.com/covid19vaccine/
 Walgreens Pharmacy 04134,Pharmacy,,,Austin,,11724 RESEARCH BLVD,78759,05/11/2021      ,08:24:05        ,0,0,0,0,60,60,0,(512) 250-2070,https://www.walgreens.com/locator/walgreens-11724+research+blvd-austin-tx-78759/id=4134
+Walgreens Pharmacy 04161,Pharmacy,,8206 Highway 6 N,Houston,Harris,8206 Highway 6 N,77095,05/12/2021      ,03:00:44        ,30,0,0,0,0,30,0,281-550-2169,
 Walgreens Pharmacy 06643,Pharmacy,,,,,"6360 SAN FELIPE ST Houston, TX 77057",,05/11/2021      ,20:53:40        ,0,100,0,0,0,100,0,(713) 278-2616,https://www.walgreens.com/locator/walgreens-6360+san+felipe+st-houston-tx-77057/id=6643
 Walgreens Pharmacy 11175,Pharmacy,,,,,"701 US HIGHWAY 259 N Kilgore, TX 75662",,05/11/2021      ,17:34:37        ,150,0,0,0,0,150,0,(903) 983-2892,https://www.walgreens.com/locator/walgreens-701+us+highway+259+n-kilgore-tx-75662/id=11175
 Walgreens Pharmacy 10839,Pharmacy,,,,,"704 S ADAMS ST Fredericksburg, TX 78624",,05/11/2021      ,19:58:16        ,0,0,0,0,60,60,0,(830) 990-5089,https://www.walgreens.com/locator/walgreens-704+s+adams+st-fredericksburg-tx-78624/id=10839
@@ -2498,7 +2498,7 @@ Jose I Sosa Md,Medical Practice,,151 Medical Dr,Pearsall,Frio,151 Medical Dr,780
 INTERVENTIONAL PAIN ASSOCIATES,Medical Practice,,6618 Sitio Del Rio Blvd,Austin,Travis,"6618 Sitio Del Rio Boulevard, Austin, TX, USA",78730,05/11/2021      ,17:32:24        ,0,284,0,0,0,284,0,,
 Absolute CPR and Allied Health Training ,Other,,Wheatland Road Suite 180,Duncanville,DALLAS,"4025 West Wheatland Road, Dallas, TX, USA",75116,05/11/2021      ,11:40:59        ,2097,0,2097,0,0,2097,2097,,
 North Texas Hospital Physicians Group,Other,,,Plano ,Collin,6020 W PARKER RD STE 420,75093,05/10/2021      ,15:49:48        ,0,20,0,0,0,20,0,(972) 244-1300 ext1390,bgwarren@texasmed.com
-HEALTHCO PHARMACY #2,Federal Allocation,,8604 Martin Luther King Jr Blvd,Houston,77033,8604 Martin Luther King Jr Blvd,Harris,05/11/2021      ,02:37:19        ,0,0,0,0,620,620,0,,
+HEALTHCO PHARMACY #2,Federal Allocation,,8604 Martin Luther King Jr Blvd,Houston,77033,8604 Martin Luther King Jr Blvd,Harris,05/12/2021      ,03:45:15        ,0,0,0,0,620,620,0,,
 Randol Mill Pharmacy,Pharmacy,,1014 N Fielder Rd,Arlington,Tarrant,1014 North Fielder Road,76012,05/11/2021      ,08:43:32        ,0,350,0,0,0,350,0,,randolmillrx@aol.com
 Peoples Pharmacy #1,Pharmacy,,, Austin,,4018 N Lamar Blvd,78756,05/11/2021      ,07:27:08        ,0,80,0,0,185,265,0,,
 United Pharmacy 513,Pharmacy,,3000 Wilbarger St,Vernon,Wilbarger,3000 Wilbarger St,76384,05/08/2021      ,11:23:51        ,0,320,0,260,85,405,260,,
@@ -2539,11 +2539,13 @@ Falls Community Hospital & Clinic,Vaccine Hub,M,322 Coleman Street, Marlin,Falls
 Highrise Health Pllc Dba Vertical Healt,Medical Practice,,3624 Oak Lawn Avenue,Dallas,Dallas,"3624 Oak Lawn Avenue, Dallas, Texas 75219",75219,05/11/2021      ,17:08:20        ,0,79,0,0,0,79,0,361-542-1029,
 Lithonia Healthcare Development LLC,Other,,W Mockingbird Lane,Dallas,Dallas,1341 W Mockingbird Lane,75247,05/03/2021      ,09:03:29        ,1170,0,0,0,0,1170,0,,
 Hillside Family Health Clinic Pa,Medical Practice,,7130 Bell St,Amarillo,Randall,"7130 Bell St,  Amarillo, Texas 79109",79109,05/11/2021      ,07:47:21        ,0,0,0,10,60,60,10,(806) 373-4010,http://hfhcamarillo.com/
+Ibn Sina Foundation North Shepherd,Community Clinic,,5012 North Shepherd Dr,Houston,Harris,"5012 North Shepherd Dr, Houston, Texas 77018",77018,05/12/2021      ,05:53:45        ,0,140,0,0,0,140,0,(281) 977-7462,http://www.ibnsinafoundation.org/
 St. Hope Foundation -  Conroe,Other,,1414 S Frazier St Ste 105,Conroe,MONTGOMERY,1414 S Frazier St Ste 105,77301,04/29/2021      ,10:35:58        ,0,240,0,170,0,240,170,(936) 441-2440,http://offeringhope.org/
 Hometown Healthcare Orange Grove,Other,U,101 S Eugenia St,Orange Grove,Jim Wells,"101 S Eugenia St, Orange Grove, Tx 78372",78372,05/11/2021      ,09:21:13        ,546,240,0,0,0,786,0,(361) 382-2024,https://urgentcarelocations.org/tx/orange-grove/289578--hometown-healthcare-llc#
+Ibn Sina Foundation Children's Clinic,Other,,SOUTH WILCREST DR ,HOUSTON,HARRIS,"11220 S WILCREST DR, Houston, Texas 77099",77099,05/12/2021      ,06:01:47        ,0,0,0,10,0,0,10,(281) 495-7462,http://childrensclinic.ibnsinafoundation.org/
 "Harold J Pean MD, PA",Medical Practice,,,Mission,Hidalgo,909 Business Park Drive,78572,05/11/2021      ,17:55:35        ,0,0,0,30,0,0,30,,
-Ibn Sina Community Medical Clinic Port Arthur,Community Clinic,R,8455 9th Ave Suite B,Port Arthur,Jefferson,"8455 9th Ave Suite B, Port Arthur, TX 77642",77642,05/11/2021      ,05:29:34        ,0,0,0,0,100,100,0,(409) 724-7462,https://www.ibnsinafoundation.org/
-Ibn Sina Foundation Community Clinic South Post Oak,Community Clinic,,16345 S Post Oak Rd,Houston,Fort Bend,"16345 S Post Oak Rd, Houston, Texas 77053",77053,05/11/2021      ,05:35:06        ,0,0,0,0,55,55,0,(281) 438-7462,http://ibnsinafoundation.org/
+Ibn Sina Community Medical Clinic Port Arthur,Community Clinic,R,8455 9th Ave Suite B,Port Arthur,Jefferson,"8455 9th Ave Suite B, Port Arthur, TX 77642",77642,05/12/2021      ,05:56:58        ,0,0,0,0,100,100,0,(409) 724-7462,https://www.ibnsinafoundation.org/
+Ibn Sina Foundation Community Clinic South Post Oak,Community Clinic,,16345 S Post Oak Rd,Houston,Fort Bend,"16345 S Post Oak Rd, Houston, Texas 77053",77053,05/12/2021      ,06:00:30        ,0,0,0,0,55,55,0,(281) 438-7462,http://ibnsinafoundation.org/
 Rio Grande Medicine,Other,,,HARLINGEN,,5505 S EXPRESSWAY 77 STE205,78550,05/10/2021      ,15:27:26        ,0,24,0,83,0,24,83,(956) 421-2757,
 Jeff's Topcare Pharmacy,Federal Allocation,,4901 Fm 2920 Rd,Spring,Harris,4901 Fm 2920 Rd,77388,05/11/2021      ,12:07:04        ,0,350,0,0,335,685,0,8328610081,jeffstopcarerx.com
 Sanitas Medical Center Texas,Other,,12586 Westheimer Rd Houston 77077,Houston,Harris,jeffery.gubbels@mysanitas.com,77077,05/11/2021      ,16:37:01        ,0,610,0,0,0,610,0,,
@@ -2571,7 +2573,7 @@ Dallas Family Medicine,Community Clinic,,8668 Skillman St,Dallas,Dallas,8668 Ski
 Su Clinica Familiar,Other,,,Garland,,315 N. Shiloh Rd. STE 102,75042,05/11/2021      ,10:46:17        ,3450,0,0,0,0,3450,0,(972) 205-0440,
 "MedStork Rx, LLC",Pharmacy,,1413 E Interstate 30 Ste 6,Garland,Dallas,1413 East Interstate 30,75043,05/10/2021      ,17:35:30        ,0,300,0,0,0,300,0,info@medstorkrx.com,
 Goodyear GoodLife Health Center,Other,,2000 Goodyear Dr,Houston,Harris,2000 Goodyear Drive,77017,05/10/2021      ,16:31:14        ,0,58,0,0,0,58,0,,
-Certified Allergy & Asthma Of San Antonio,Medical Practice,,8285 Fredericksburg Rd,San Antonio ,Bexar,8285 Fredericksburg Rd San Antonio 78229,78229,05/11/2021      ,06:48:47        ,0,230,0,0,0,230,0,210-614-3923,
+Certified Allergy & Asthma Of San Antonio,Medical Practice,,8285 Fredericksburg Rd,San Antonio ,Bexar,8285 Fredericksburg Rd San Antonio 78229,78229,05/12/2021      ,06:55:14        ,0,220,0,0,0,220,0,210-614-3923,
 "TEXAS PHYSICIAN PRIMARY CARE ,PLLC",Medical Practice,,502 W Kearney St,Mesquite,Dallas,502 West Kearney Street,75149,05/11/2021      ,08:05:30        ,0,80,0,0,0,80,0,(972) 288-7337,
 Spring Branch Community Health Center Cy Fair,Federal Allocation,,7777 Westgreen Blvd.,Cypress,,7777 Westgreen Blvd.,77433,05/10/2021      ,14:36:33        ,0,90,0,0,0,90,0,713-387-7180,
 Walgreens Pharmacy 00553,Pharmacy,,,Houston ,,5300 N Braeswood Blvd ,77096,05/11/2021      ,23:36:18        ,12,0,0,0,65,77,0,713-721-1516,https://www.walgreens.com/locator/walgreens-5300+n+braeswood+blvd-houston-tx-77096/id=553
@@ -2698,7 +2700,7 @@ CHI ST JOSEPH PRIMARY CARE MOB,Other,,,College Station,Brazos,4421 State Hwy 6 S
 San Antonio Preventive And Diagnostic M,Other,,,San Antonio,Bexar,8401 Datapoint Dr,78229,05/11/2021      ,17:24:10        ,0,240,0,0,0,240,0,,
 River Hills Family  Medicine,Other,,Travis,Austin,Travis,7011 Ribelin Ranch Rd,78750,05/10/2021      ,10:04:48        ,0,70,0,0,0,70,0,,
 Legends Medical Clinic Pllc,Community Clinic,,3000 Joe Dimaggio Blvd Ste 65,Round Rock,Williamson,3000 JOE DIMAGGIO BLVD STE 6565 Round Rock 78665,78665,05/11/2021      ,17:49:54        ,0,263,0,0,0,263,0,,
-Vitals Family Medicine,Community Clinic,,,Allen,Collin,1420 W Exchange Pkwy Ste 120,75013,05/10/2021      ,08:42:43        ,0,70,0,0,0,70,0,,
+Vitals Family Medicine,Community Clinic,,,Allen,Collin,1420 W Exchange Pkwy Ste 120,75013,05/12/2021      ,06:51:32        ,0,70,0,0,0,70,0,,
 Ahf-Fort Worth Healthcare Center,Community Clinic,,,Fort Worth,Tarrant,400 N Beach St Ste 104,76111,05/10/2021      ,10:40:46        ,0,80,0,0,0,80,0,,
 "Allen Pharmacy & Wellness, LLC",Other,,945 W Stacy Rd,Allen,,945 W Stacy Rd STE 110 Allen 75013,75013,05/06/2021      ,09:54:47        ,0,280,0,11,0,280,11,(972) 372-9775,https://www.allenpharmacywellness.com/
 Vytalus Medical Group,Medical Practice,,23330 US-59,Houston,Montgomery,"23330 U.S. 59, Kingwood, TX, USA",77339,05/11/2021      ,08:11:13        ,0,428,0,0,0,428,0,,
@@ -2721,7 +2723,7 @@ Tyler County Hospital Family Medical C,Community Clinic,,104 N Beech St,Woodvill
 HOUSTON METHODIST HOSPITAL,Vaccine Hub,Q,6565 Fannin St,Houston,Harris,"6565 Fannin St, Houston, TX, 77030",77030,05/11/2021      ,13:47:33        ,0,0,0,0,0,0,0,281-626-5551,https://www.houstonmethodist.org/texas-vaccine-hub/
 Purple Hearts Primary Care Services Pllc,Other,,688 W Pioneer Pkwy,Grand Prairie,Dallas,"688 W Pioneer Pkwy ste 120, Grand Prairie, TX 75051",75051,05/11/2021      ,18:21:19        ,440,40,1170,200,0,480,1370,817-969-4651,https://purpleheartspc.com/
 Walgreens Pharmacy 04054,Pharmacy,,,Irving,,1050 W SHADY GROVE RD,75060,05/11/2021      ,09:13:21        ,60,360,0,0,80,500,0,(972) 254-0305,https://www.walgreens.com/locator/walgreens-1050+w+shady+grove+rd-irving-tx-75060/id=4054
-Bell Health And Wellness Clinic,Community Clinic,,,Hurst,Tarrant,720 E Hurst Blvd,76053,05/10/2021      ,09:13:17        ,0,283,0,0,0,283,0,,
+Bell Health And Wellness Clinic,Community Clinic,,,Hurst,Tarrant,720 E Hurst Blvd,76053,05/12/2021      ,05:56:24        ,0,255,0,0,0,255,0,,
 Valley Intensivists Pulmonologist And Sleep Specialist,Other,,1200 E Savannah Ave,Mcallen,Hidalgo,1200 E Savannah Ave,78503,05/11/2021      ,09:07:23        ,0,60,0,0,0,60,0,,
 Kuraoka Clinic,Community Clinic,,,Carrollton,Denton,3012 E Hebron Pkwy Ste 104,75010,05/10/2021      ,13:00:47        ,0,129,0,0,0,129,0,,
 ODESSA REGIONAL MEDICAL CENTER HOSPITAL,Hospital,J,520 E 6th St,Odessa,Ector,520 E 6th St,79761,05/11/2021      ,08:50:11        ,186,1000,0,0,0,1186,0,432-640-2220,http://www.mchodessa.com/
@@ -3299,7 +3301,7 @@ West Houston Community Health Center,Community Clinic,,19333 Clay Rd,Katy,Harris
 UT Health Science Center at Tyler ,Hospital,G,11937 Us Highway 271,Tyler,Smith,11937 Us Highway 271,75708,05/07/2021      ,08:38:06        ,930,0,3510,0,0,930,3510,903-877-5703,https://www.signupgenius.com/go/UT
 Laredo Isd,Other,,,Laredo ,Webb,2001 Cedar St ,78040,05/10/2021      ,15:50:03        ,0,200,0,530,0,200,530,,
 "Executive Medical Services, PC",Other,,MARS DR,Woodway,McLennan,8301 MARS DR WACO 76712,76712,05/11/2021      ,17:21:54        ,0,0,0,0,80,80,0,,
-Griffin Family Medicine,Medical Practice,,509 E Byron Nelson Blvd,Roanoke,,509 E BYRON NELSON BLVD STE B Roanoke 76262,76262,05/10/2021      ,07:15:43        ,0,130,0,10,0,130,10,,
+Griffin Family Medicine,Medical Practice,,509 E Byron Nelson Blvd,Roanoke,,509 E BYRON NELSON BLVD STE B Roanoke 76262,76262,05/12/2021      ,06:44:40        ,0,121,0,9,0,121,9,,
 "Voss Family Clinic, PLLC",Medical Practice,,S. Texas 6,Sugar Land,Fort Bend,11920 S. Texas 6 STE 1500 Sugar Land 77498,77498,05/10/2021      ,14:32:33        ,0,560,0,0,115,675,0,,
 Walgreens Pharmacy 05671,Pharmacy,,,,,"4445 KINGWOOD DR Kingwood, TX 77339",,05/06/2021      ,19:19:15        ,42,200,0,0,125,367,0,(281) 360-4694,https://www.walgreens.com/locator/walgreens-4445+kingwood+dr-kingwood-tx-77339/id=5671
 South San Medical Building Pharmacy,Federal Allocation,,919 Sw Military #105,San Antonio,Bexar,919 SW MILITARY DR STE 105 San Antonio 78221,78221,05/11/2021      ,09:45:12        ,0,0,0,0,190,190,0,,
@@ -3380,7 +3382,7 @@ Kaufman County Detention Center,Other,,,Kaufman,Kaufman,1900 E Hwy 175,75142,05/
 Walgreens Pharmacy 09504,Pharmacy,,FM 1464 RD ,Richmond ,,7102 FM 1464 RD ,77407,05/11/2021      ,19:28:06        ,0,130,0,0,100,230,0,,
 North Houston Cancer Clinics ,Medical Practice,,,huntsville,Texas,3233 woodward dr,77384,05/11/2021      ,16:38:19        ,0,456,0,412,0,456,412,,
 Teare Memorial Clinic,Medical Practice,,146 N Pioneer,Booker,Lipscomb,146 N Pioneer,79005,05/07/2021      ,12:44:38        ,0,230,0,220,85,315,220,(806) 658-4531,
-Orange County Convention and Expo Center,Other,,,Orange,,11475 FM 1442 ORANGE 77630,77630,05/11/2021      ,07:29:44        ,0,950,0,0,420,1370,0,,
+Orange County Convention and Expo Center,Other,,,Orange,,11475 FM 1442 ORANGE 77630,77630,05/12/2021      ,06:51:54        ,0,720,0,0,420,1140,0,,
 Walgreens Pharmacy 04396,Pharmacy,,, Houston ,,10850 Scarsdale Blvd,77089,05/11/2021      ,21:24:00        ,84,0,0,0,0,84,0,,
 TitaniumRx Pharmacy,Pharmacy,,THOMPSON ROAD,RICHMOND,TX,2116 Thompson Road G-1,77469,05/06/2021      ,09:49:22        ,0,0,0,0,180,180,0,8323631246,
 Family Health Center Perryton,Medical Practice,,3019 S Main St,Perryton,Ochiltree,3019 S Main St,79070,05/11/2021      ,10:16:19        ,0,370,0,180,0,370,180,(806) 435-7154,
@@ -3561,7 +3563,7 @@ BSA HEALTH SYSTEM - MAIN CAMPUS,Hospital,A,1600 Wallace Blvd,Amarillo,Potter,160
 Hope Clinic,Community Clinic,,7001 Corporate Dr,Houston,Harris,7001 Corporate Dr Stu. 120,77036,05/11/2021      ,17:02:26        ,0,150,0,0,55,205,0,713-773-0803,www.hopechc.org
 Brownsville Pharmacy 4,Other,,,,,,,05/11/2021      ,17:58:06        ,0,60,0,100,155,215,100,9566211000,
 Walgreens Pharmacy 11273,Other,, E Highway 190,Copperas Cove,Coryell,527 E Highway 190,76522,05/07/2021      ,21:10:48        ,72,0,72,0,205,277,72,,
-Refugio Rural Health,Other,,107 12 Swift,Refugio,Refugio,107 12 Swift,78377,05/10/2021      ,09:30:04        ,0,57,0,57,0,57,57,+13615265328,http://www.refugiohospital.com/
+Refugio Rural Health,Other,,107 12 Swift,Refugio,Refugio,107 12 Swift,78377,05/12/2021      ,06:16:34        ,0,57,0,57,0,57,57,+13615265328,http://www.refugiohospital.com/
 S&L Pharmacy Terrell Inc.,Pharmacy,,601 W Moore Ave,Terrell,Kaufman,601 West Moore Avenue,75160,05/11/2021      ,18:02:29        ,0,310,0,310,680,990,310,972-563-3311,https://www.bassrutledgedrug.com/
 Walgreens Pharmacy 15140,Other,,Williams Dr,Georgetown,Williamson,5317 Williams Dr,78633,05/10/2021      ,20:27:17        ,84,0,0,0,135,219,0,,
 Walgreens Pharmacy 10711,Pharmacy,,,,,"1000 E CENTRAL TEXAS EXPY Killeen, TX 76541",,05/11/2021      ,22:09:18        ,99,0,0,0,270,369,0,(254) 526-4258,https://www.walgreens.com/locator/walgreens-1000+e+central+texas+expy-killeen-tx-76541/id=10711
@@ -3662,7 +3664,7 @@ Eagle Pharmacy Holliday,Pharmacy,,700 S College Ave,Holliday,Archer,700 S Colleg
 Davy Crockett Drug Inc,Pharmacy,,107 S 4th St,Crockett,,107 S 4th St,75835,05/11/2021      ,17:52:43        ,0,560,0,0,0,560,0,(936) 544-2275,james@davycrockettdrug.com
 City Drug Co,Other,,232 E JEFFERSON ST,Van Alstyne,GRAYSON,232 E JEFFERSON ST,75495,05/11/2021      ,08:40:25        ,0,200,0,200,620,820,200,,
 Circle Drug,Pharmacy,,3211 N Robinson Dr,Waco,McLennan,"3211 North Robinson Drive, Waco, TX, USA",76706,05/11/2021      ,17:10:02        ,0,195,0,0,0,195,0,(254) 662-0774,
-CHANNELVIEW PHARMACY LLC,Other,,441 Sheldon Rd,Channelview,Harris,441 Sheldon Rd,77530,05/11/2021      ,06:48:06        ,0,320,0,0,0,320,0,+12814570523,http://mychannelviewpharmacy.com/
+CHANNELVIEW PHARMACY LLC,Other,,441 Sheldon Rd,Channelview,Harris,441 Sheldon Rd,77530,05/12/2021      ,05:43:44        ,0,310,0,0,100,410,0,+12814570523,http://mychannelviewpharmacy.com/
 Berry Professional Pharmacy,Federal Allocation,,8520 JENSEN DR,Houston ,,,77093,05/11/2021      ,18:19:54        ,0,30,0,0,75,105,0,8520 JENSEN DR Houston 77093,
 Beaker Pharmacy,Pharmacy,,Eldorado Pkwy,Mckinney,collin,7810 Eldorado pkwy ste 200,75070,05/10/2021      ,22:55:37        ,1020,0,1170,100,45,1065,1270,,
 Bay Pharmacy,Pharmacy,O,7407 W FM 2147,Horseshoe Bay,Llano,7407 W FM 2147,78657,05/07/2021      ,17:45:04        ,0,60,0,0,120,180,0,,
@@ -3670,7 +3672,7 @@ Shubha Llc Dba Auro Pharmacy,Pharmacy,,1139 W Braker Ln,Austin,Travis,1139 W Bra
 EL CAMPO MEMORIAL HOSPITAL,Hospital,Q,303 Sandy Corner Rd,El Campo,Wharton,303 Sandy Corner Rd,77437,05/10/2021      ,11:15:05        ,1176,0,1176,0,0,1176,1176,(979) 543-6251,http://www.ecmh.org/
 Lhd Plainview-Hale Co Health Dist (Re),Community Clinic,,E 10th St,Plainview,Hale,111 E 10th St,79072,05/10/2021      ,08:46:12        ,0,2160,0,2560,0,2160,2560,,
 North Dallas Pain Center,Other,,,Lewisville,,1850 LAKEPOINTE DR STE 100,75057,05/06/2021      ,22:46:00        ,1670,200,0,0,0,1870,0,,
-PETERSON REGIONAL MEDICAL CENTER,Hospital,P,551 Hill Country Dr,Kerrville,Kerr,551 Hill Country Dr,78028,05/09/2021      ,14:52:15        ,0,760,0,300,975,1735,300,(830) 896-4200,https://www.petersonhealth.com/
+PETERSON REGIONAL MEDICAL CENTER,Hospital,P,551 Hill Country Dr,Kerrville,Kerr,551 Hill Country Dr,78028,05/12/2021      ,05:45:13        ,0,760,0,300,910,1670,300,(830) 896-4200,https://www.petersonhealth.com/
 PALESTINE REGIONAL MEDICAL CENTER,Pharmacy,G,2900 S Loop 256,Palestine,Anderson,2900 S Loop 256,75801,05/10/2021      ,08:23:55        ,0,0,0,40,40,40,40,(903) 731-1000,https://www.palestineregional.com/
 FAMILY MEDICINE CLINIC,Community Clinic,N,8812 Highway 79 West,Jewett,Leon,8812 Highway 79 West,75846,05/11/2021      ,08:14:38        ,0,3,0,5,0,3,5,(903) 626-1687,
 SynergenX New Braunfels,Medical Practice,,717 N Business Ih 35,New Braunfels,comal county,"717 N Business Ih 35, New Braunfels, TX, USA",78130,05/04/2021      ,10:00:25        ,0,0,0,120,0,0,120,,
@@ -3730,7 +3732,7 @@ United Pharmacy 678,Pharmacy,K,3121 Sunset Dr,San Angelo,Tom Green,3121 Sunset D
 Market Street Pharmacy 543,Pharmacy,,4205 98th St,Lubbock,Lubbock,4205 98th St,79423,05/09/2021      ,16:11:07        ,12,0,12,0,0,12,12,(806) 788-2015,https://local.pharmacy.marketstreetunited.com/tx/lubbock/4425-19th-st.html
 United Pharmacy 518,Pharmacy,,2105 Avenue F Nw,Childress,Childress,2105 Avenue F Nw,79201,05/11/2021      ,18:03:55        ,0,100,0,100,535,635,100,,
 Wellness Pointe/South 040587,Community Clinic,G,2131 South Mobberly,Longview,Gregg,2131 South Mobberly,75602,05/10/2021      ,06:10:46        ,0,400,0,360,0,400,360,,
-United Pharmacy 515,Pharmacy,,311 South Ave D,Burkburnett,Wichita,311 South Ave D,76354,05/11/2021      ,06:48:41        ,0,181,0,0,199,380,0,(940) 569-3319,https://local.pharmacy.unitedsupermarkets.com/tx/burkburnett/311-s-ave-d.html
+United Pharmacy 515,Pharmacy,,311 South Ave D,Burkburnett,Wichita,311 South Ave D,76354,05/12/2021      ,05:57:50        ,0,171,0,0,194,365,0,(940) 569-3319,https://local.pharmacy.unitedsupermarkets.com/tx/burkburnett/311-s-ave-d.html
 United Pharmacy 532,Pharmacy,,201 N 23rd St,Canyon,Randall,201 N 23rd St,79015,05/11/2021      ,16:56:55        ,0,0,0,0,350,350,0,(806) 655-5757,https://local.pharmacy.unitedsupermarkets.com/tx/canyon/201-n-23rd-st.html
 Shurmed Emergency Medical Service Brad,Other,,1535 Brady Blvd,San Antonio,Bexar,1535 Brady Blvd,78237,05/11/2021      ,13:49:29        ,1170,0,0,3060,0,1170,3060,(210) 432-8800,http://www.shurmed.com/
 City of El Paso Fire Department,Vaccine Hub,,301 George Perry Blvd,El Paso,El Paso,"301 George Perry Blvd, El Paso, TX 79925",79925,05/10/2021      ,21:01:50        ,0,9000,0,0,0,9000,0,915-212-6843,https://www.elpasotexas.gov/fire-department
@@ -3779,7 +3781,7 @@ Physician's Vascular Services,Other,,,El Paso,El Paso,1111 Hawkins Blvd,79925,05
 Internal Medicine Associates Of Texas,Medical Practice,,7777 Forest Ln Ste C650,Dallas,Dallas,7777 Forest Ln Ste C650,75230,05/11/2021      ,11:44:24        ,0,190,0,0,0,190,0,(972) 566-8899,https://imedtexas.com/
 First Medical Response Of Texas Inc,Other,,854 Wild Rose Drive,Austin,Hays,854 Wild Rose Drive,78737,05/05/2021      ,20:02:52        ,978,200,0,0,0,1178,0,(512) 233-4929,https://www.firstmedicalresponse.org/
 Cogdell Rural Health Clinic,Other,,320 N Main St,Lockney,FLOYD,320 N Main St,79241,05/11/2021      ,09:44:58        ,0,70,0,100,0,70,100,,
-Pecos Valley Rural Health Clinic,Vaccine Hub,,2335 S Pigman St,Pecos,Reeves,2335 S Pigman St,79772,05/11/2021      ,07:34:44        ,2274,2504,0,0,0,4778,0,432-447-7920,https://www.reevescountyhospital.com
+Pecos Valley Rural Health Clinic,Vaccine Hub,,2335 S Pigman St,Pecos,Reeves,2335 S Pigman St,79772,05/12/2021      ,06:23:27        ,2274,2504,0,0,0,4778,0,432-447-7920,https://www.reevescountyhospital.com
 Brookshire Brothers Pharmacy 59,Pharmacy,,295 Highway 105 E,Sour Lake,Hardin,295 Highway 105 E,77659,05/11/2021      ,08:23:17        ,0,0,0,0,110,110,0,(409) 287-3525,https://www.brookshirebrothers.com/store-location/store-59
 Ascension Seton Lockhart Family Health Center on Colorado,Hospital,,,Lockhart,,300 S COLORADO ST STE AA ,78644,05/10/2021      ,08:28:11        ,0,50,0,100,0,50,100,(512) 398-2022,
 New Braunfels Regional Rehabilitation H,Other,,,New Braunfels,Comal,2041 Sundance Parkway,78130,05/10/2021      ,08:23:17        ,0,0,0,0,120,120,0,8306256700,
@@ -3803,7 +3805,7 @@ DeliverIt Pharmacy Sugar Land,Pharmacy,,13303 W Airport Blvd,Sugar Land,Fort Ben
 MULESHOE MEDICAL CENTER,Vaccine Hub,B,708 S 1st St,Muleshoe,Bailey,708 S 1st St,79347,05/11/2021      ,08:17:25        ,0,1200,0,0,0,1200,0,(806) 272-7544,https://muleshoehospital.com
 Rogers Pharmacy 6,Other,,1013 S Wells St,Edna,Jackson,1013 S Wells St,77957,05/11/2021      ,10:38:04        ,0,0,0,120,360,360,120,+13617827822,https://www.mygnp.com/pharmacies/rogers-pharmacy-6-edna-tx-77957/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=5916816
 Rio Grande Pharmacy LLC,Pharmacy,,Doniphan,El Paso,El Paso,5500 Doniphan Dr. Ste 201,79932,05/11/2021      ,18:18:33        ,0,0,0,0,80,80,0,(915) 260-8555,riograndepharmacy-ep@outlook.com
-CHI ST. LUKE'S SUGAR LAND HOSPITAL,Pharmacy,Q,1317 Lake Pointe Prkwy,Sugar Land,Fort Bend,1317 Lake Pointe Prkwy,77478,05/11/2021      ,06:10:35        ,0,90,0,110,0,90,110,(281) 637-7000,https://www.stlukeshealth.org/locations/sugar-land-hospital?utm_source=LocalSearch&utm_medium=Facility&utm_campaign=CHITexas&utm_term=CHIStLukesHealthSugarLandHospital&y_source=1_MTUxNjI3NjAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+CHI ST. LUKE'S SUGAR LAND HOSPITAL,Pharmacy,Q,1317 Lake Pointe Prkwy,Sugar Land,Fort Bend,1317 Lake Pointe Prkwy,77478,05/12/2021      ,06:04:03        ,0,90,0,110,0,90,110,(281) 637-7000,https://www.stlukeshealth.org/locations/sugar-land-hospital?utm_source=LocalSearch&utm_medium=Facility&utm_campaign=CHITexas&utm_term=CHIStLukesHealthSugarLandHospital&y_source=1_MTUxNjI3NjAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
 The Medicine Shoppe Pharmacy 0939,Pharmacy,,903 W Frank Ave,Lufkin,Angelina,903 W Frank Ave,75904,05/11/2021      ,09:29:14        ,0,0,0,90,270,270,90,936-634-3006,http://kansascity.medicineshoppe.com/
 ALPHINA INC DBA Oasis Pharmacy,Pharmacy,,DAIRY ASHFORD,SUGAR LAND,FORT BEND,12946 DAIRY ASHFORD RD STE 460,777478,05/11/2021      ,15:53:21        ,0,440,0,0,185,625,0,(281) 240-8111,MYOASISRX@OASISLTCRX.COM
 Market Street Pharmacy 517,Pharmacy,,4590 Kell Blvd,Wichita Falls,Wichita,4590 Kell Blvd,76309,05/11/2021      ,19:40:12        ,39,50,39,50,635,724,89,(940) 716-2515,https://local.pharmacy.marketstreetunited.com/tx/wichita-falls/4590-kell-blvd.html
@@ -3934,7 +3936,7 @@ Brookshire Brothers Pharmacy 89,Other,,421 South Main,Lumberton,,"421 South Main
 Harris County Emergency Services District NO 48,Other,,"Morton Road, Katy",Katy,Harris,21201 Morton Road,77449,05/10/2021      ,18:03:37        ,1036,0,0,0,0,1036,0,,
 Freedom at Home Dialysis ,Other,,East Ralph Hall Parkway,Rockwall,Texas,810 East Ralph Hall Parkway,75032,05/11/2021      ,20:43:50        ,0,200,0,0,0,200,0,(903) 268-5436,
 Memorial Medical Clinic,Community Clinic,,1016 N Virgnia,Port Lavaca,Calhoun,1016 N Virgnia,77979,05/10/2021      ,13:01:41        ,0,190,0,190,0,190,190,(361) 552-6713,http://mmcportlavaca.com/
-Baylor College Of Medicine,Other,,6620 Main Street,Houston,Harris,6620 Main Street,77030,05/11/2021      ,05:42:46        ,3900,0,3800,0,0,3900,3800,(713) 798-4951,https://www.bcm.edu/
+Baylor College Of Medicine,Other,,6620 Main Street,Houston,Harris,6620 Main Street,77030,05/12/2021      ,05:42:04        ,3890,0,5127,0,0,3890,5127,(713) 798-4951,https://www.bcm.edu/
 Step-In Clinics,Medical Practice,,545 FM 2977 Road,Rosenberg,Fort Bend,545 FM 2977 Road Suite 110,77469,05/10/2021      ,08:06:15        ,0,0,0,0,140,140,0,,
 "Yun W. Kim, MD, PA",Other,,11207 N Lamar Blvd,Austin,,11207 N LAMAR BLVD # B Austin 78753,78753,05/11/2021      ,18:08:42        ,0,200,0,0,0,200,0,,
 Pecan Discount Drug,Other,,9203 Plantation Dr Ste 1 Granbury 76049,Granbury ,Hood,9203 Plantation Dr Ste 1 Granbury 76049,76049,05/11/2021      ,08:13:44        ,0,320,0,0,0,320,0,(817) 573-9344,
@@ -3955,7 +3957,7 @@ Willowbrook Medical Group,Medical Practice,,,Houston,Harris,18310 STATE HIGHWAY 
 Topline Pharmacy,Pharmacy,J,4400 W Loop 250 N Ste 102,Midland,Midland,4400 W Loop 250 N Ste 102,79707,05/11/2021      ,08:35:30        ,0,130,0,0,95,225,0,432-287-5620,
 TEXOMA MEDICAL CENTER,Hospital,E,5016 S Us Highway 75,Denison,Grayson,5016 S Us Highway 75,75020,05/06/2021      ,15:21:49        ,1500,0,1500,0,0,1500,1500,(903) 416-4000,https://www.texomamedicalcenter.net/?utm_source=google-business&utm_medium=organic&utm_campaign=homepage
 Davam Urgent Care - Giddings,Medical Practice,O,2454 East Austin Street,Giddings,Lee,2454 East Austin Street,78942,05/10/2021      ,08:19:34        ,0,0,0,100,0,0,100,979-542-2273,
-Lake Whitney Medical Clinic,Community Clinic,M,202 E Jefferson Ave,Whitney,Hill,202 E Jefferson Ave,76692,05/11/2021      ,06:07:17        ,0,520,0,720,0,520,720,,
+Lake Whitney Medical Clinic,Community Clinic,M,202 E Jefferson Ave,Whitney,Hill,202 E Jefferson Ave,76692,05/12/2021      ,05:57:53        ,0,520,0,720,0,520,720,,
 Houston Pulmonary Medicine Associates,Medical Practice,,11920 Astoria Blvd,Houston,Harris,11920 Astoria Blvd,77089,05/11/2021      ,11:02:36        ,0,440,0,0,0,440,0,(281) 484-9369,http://houstonpulmonary.com/
 COOK CHILDRENS MEDICAL CENTER,Hospital,E,801 7th Ave,Fort Worth,Tarrant,801 7th Ave,76104,05/07/2021      ,10:20:54        ,0,0,0,20,0,0,20,(682) 885-4000,https://cookchildrens.org/medical-center/?utm_source=google&utm_medium=OrganicSearch&utm_campaign=yext
 Dow Occupational Health,Other,,2301 N Brazosport Blvd B1820,Freeport,Brazoria,"2301 N Brazosport Blvd B1820 Freeport, TX",77541,05/11/2021      ,07:36:24        ,0,0,0,250,195,195,250,,
@@ -4006,7 +4008,7 @@ PAM REHABILITATION HOSPITAL OF BEAUMONT,Hospital,R,3340 Plaza 10 Dr, Beaumont,Je
 Privia Medical Group Gulf Coast,Medical Practice,,7900 Fannin Street,Houston,Harris,7900 Fannin Street,77054,05/12/2021      ,02:43:52        ,2340,0,2340,320,0,2340,2660,(281) 656-8063,
 LEVELLAND CLINIC NORTH,Other,,103 John Dupree Dr,Levelland,Hockley,103 John Dupree Dr,79336,05/10/2021      ,08:35:54        ,0,30,0,100,0,30,100,+18068942465,https://www.covenanthealth.org/our-services/family-medicine/levelland-clinic-north/
 CHRISTUS SPOHN CC-SHORELINE,Hospital,U,600 Elizabeth St,Corpus Christi,Nueces,600 Elizabeth St,78404,05/11/2021      ,10:28:22        ,27174,300,0,0,0,27474,0,(361) 881-3000,https://www.christushealth.org/spohn/shoreline?utm_source=organic&utm_medium=GMB&utm_campaign=website&y_source=1_MTUzNzY2MDUtNzE1LWxvY2F0aW9uLmdvb2dsZV93ZWJzaXRlX292ZXJyaWRl
-WOODSBORO MEDICAL CLINIC,Community Clinic,,120 Wood Avenue,Woodsboro,Refugio,120 Wood Avenue,78393,05/10/2021      ,09:27:57        ,0,49,0,49,0,49,49,(361) 543-5414,
+WOODSBORO MEDICAL CLINIC,Community Clinic,,120 Wood Avenue,Woodsboro,Refugio,120 Wood Avenue,78393,05/12/2021      ,06:15:02        ,0,49,0,49,0,49,49,(361) 543-5414,
 Ascension Medical Group Georgetown,Medical Practice,,3721 Williams Drive,Georgetown,Williamson,3721 Williams Drive,78628,05/11/2021      ,10:50:41        ,0,100,0,0,0,100,0,512-844-1881,https://healthcare.ascension.org/Locations/Texas/TXAUS/Georgetown-Ascension-Medical-Group-Georgetown
 FRIO REGIONAL - PEARSALL,Hospital,P,200 IH 35 South,Pearsall,Frio,200 IH 35 South,78061,05/11/2021      ,09:00:39        ,0,90,0,91,0,90,91,(830) 334-3617,http://www.frioregionalhospital.com/
 Trinity Clinic Family Practice Henderson,Medical Practice,,105 Zeid Blvd 2,Henderson,Rusk,105 Zeid Blvd 2,75652,05/11/2021      ,16:17:16        ,0,16,0,72,0,16,72,(903) 315-5612,https://www.christushealth.org/good-shepherd/locations-and-directions/trinity-clinic-henderson?utm_source=organic&utm_medium=GMB&utm_campaign=website&y_source=1_MTUzNzY1OTktNzE1LWxvY2F0aW9uLmdvb2dsZV93ZWJzaXRlX292ZXJyaWRl
@@ -4020,7 +4022,7 @@ CHRISTUS MOTHER FRANCES - TYLER,Hospital,G,800 E Dawson,Tyler,Smith,800 E Dawson
 S and R Drug Co,Pharmacy,,S Margaret Ave,Kirbyville ,Jasper ,1606 S Margaret Ave ,75956,05/11/2021      ,08:43:18        ,0,0,0,0,50,50,0,,
 ZEALTH CARE PLLC,Medical Practice,Q,19121 W Little York Rd Ste B,Katy,Harris,19121 W Little York Rd Ste B,77449,05/11/2021      ,16:06:18        ,0,100,0,0,20,120,0,(713) 955-5200,http://www.zealthcaretx.com/
 BAYLOR UNIVERSITY MEDICAL CENTER,Vaccine Hub,E,3500 Gaston Ave,Dallas,Dallas,3500 Gaston Ave,75246,05/11/2021      ,08:52:41        ,0,0,0,0,0,0,0,1-844-279-8222,https://www.bswhealth.com/covidvaccine
-Shannon Pharmacy,Vaccine Hub,,119 E Beauregard Ave,San Angelo,Tom Green,119 E Beauregard Ave,76903,05/11/2021      ,06:26:00        ,11900,0,8880,0,0,11900,8880,(325) 655-8191,https://www.shannonhealth.com/services/pharmacy/
+Shannon Pharmacy,Vaccine Hub,,119 E Beauregard Ave,San Angelo,Tom Green,119 E Beauregard Ave,76903,05/12/2021      ,06:27:14        ,11860,0,8774,0,0,11860,8774,(325) 655-8191,https://www.shannonhealth.com/services/pharmacy/
 Aspg Dba Christus Promptu Urgent Care - New Braunfels,Medical Practice,,1659 W State Highway 46,New Braunfels,Comal,1659 W State Highway 46,78132,05/10/2021      ,12:43:10        ,0,0,0,0,341,341,0,(830) 643-5288,http://promptucare.com/
 TMC Bonham Hospital ,Vaccine Hub,E,504 Lipscomb St,Bonham,Fannin,504 Lipscomb St,75418,05/11/2021      ,08:10:58        ,1170,0,0,0,0,1170,0,(903) 583-8585,https://tmcbonham.com/
 Pharr Childrens Day And Night Clinic,Medical Practice,,807 North Cage,Pharr,Hidalgo,807 North Cage,78577,05/11/2021      ,09:39:59        ,3150,0,0,0,0,3150,0,(956) 787-3438,http://drjuanaguilera.com/
@@ -4058,7 +4060,7 @@ WADLEY REGIONAL MED CENTER,Hospital,F,1000 Pine,Texarkana,Bowie,1000 Pine,75501,
 TEXAS CHILDREN'S WEST CAMPUS (LEVEL IV),Hospital,Q,18200 Katy Freeway,Houston,Harris,18200 Katy Freeway,77094,05/11/2021      ,08:31:58        ,0,0,3166,0,0,0,3166,(832) 227-1000,https://www.texaschildrens.org/departments/texas-childrens-hospital-west-campus
 TOPS SURGICAL SPECIALTY HOSPITAL,Hospital,Q,17080 Red Oak Dr,Houston,Harris,17080 Red Oak Dr,77090,05/05/2021      ,10:38:04        ,0,200,0,0,0,200,0,(281) 539-2900,http://tops-hospital.com/
 ELECTRA MEMORIAL HOSPITAL,Hospital,C,1207 S Bailey St,Electra,Wichita,1207 S Bailey St,76360,05/07/2021      ,15:36:45        ,0,0,0,450,0,0,450,(940) 495-3981,http://www.electrahospital.com/
-REFUGIO COUNTY MEMORIAL HOSPITAL,Hospital,U,107 Swift St,Refugio,Refugio,107 Swift St,78377,05/10/2021      ,09:24:17        ,0,0,0,120,90,90,120,(361) 526-2321,http://www.refugiohospital.com/
+REFUGIO COUNTY MEMORIAL HOSPITAL,Hospital,U,107 Swift St,Refugio,Refugio,107 Swift St,78377,05/12/2021      ,06:13:28        ,0,0,0,120,90,90,120,(361) 526-2321,http://www.refugiohospital.com/
 CHI ST. LUKE'S HEALTH MEMORIAL - LUFKIN,Hospital,H,1201 W Frank Ave,Lufkin,Angelina,1201 W Frank Ave,75904,05/11/2021      ,06:24:08        ,0,0,0,0,285,285,0,(936) 634-8111,https://www.stlukeshealth.org/locations/memorial-lufkin-hospital?utm_source=LocalSearch&utm_medium=Facility&utm_campaign=CHITexas&utm_term=CHIStLukesHealthMemorialLufkin&y_source=1_MTUxNjI3NTgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
 CHI ST.LUKE'S HEALTH MEM - SAN AUGUSTINE,Pharmacy,H,511 East Hospital Street,San Augustine,San Augustine,511 East Hospital Street,75972,05/11/2021      ,06:25:01        ,0,0,0,300,0,0,300,(936) 275-3446,https://www.chistlukeshealthmemorial.org/centers/san-augustine
 FISHER CO. HOSPITAL DISTRICT,Hospital,D,774 TX-70,ROTAN,Fisher,774 TX-70,79546,05/11/2021      ,07:59:10        ,0,870,0,0,200,1070,0,(325) 735-2256,http://www.fishercountyhospital.com/
@@ -4101,7 +4103,7 @@ South Laredo Health Care Clinic West,Medical Practice,,1920 San Bernardo Ave Ste
 Franklin County Rural Health Clinic,Community Clinic,,506 Texas Highway 37,Mount Vernon,Franklin,506 Texas Highway 37,75457,05/11/2021      ,09:24:47        ,0,40,0,0,0,40,0,(903) 537-8222,http://www.fcrhc.com/
 Diabetes And Thyroid Center Of Fort Wor,Medical Practice,,7801 Oakmont Blvd,Fort Worth,Tarrant,7801 Oakmont Blvd,76132,05/10/2021      ,09:44:04        ,0,640,0,0,225,865,0,(817) 263-0007,http://www.dtc-fw.com/
 Prestige Medical Pa,Medical Practice,,3945 County Road 58,Manvel,Brazoria,3945 County Road 58,77578,05/10/2021      ,08:41:54        ,0,36,0,126,0,36,126,(281) 412-6606,http://prestigemedicalpa.com/
-S Texas Cancer Ctr Harlingen,Medical Practice,,2121 Pease St Ste,Harlingen,Cameron,2121 Pease St Ste,78550,05/11/2021      ,08:18:58        ,0,20,0,0,0,20,0,(956) 425-8845,https://www.texasoncology.com/cancer-centers/harlingen/harlingen/medical-oncology
+S Texas Cancer Ctr Harlingen,Medical Practice,,2121 Pease St Ste,Harlingen,Cameron,2121 Pease St Ste,78550,05/12/2021      ,05:57:43        ,0,20,0,0,0,20,0,(956) 425-8845,https://www.texasoncology.com/cancer-centers/harlingen/harlingen/medical-oncology
 Eagle Pass Fire Department,Vaccine Hub,,2558 EL INDIO HWY,EAGLE PASS,Maverick,2558 EL INDIO HWY,78852,05/11/2021      ,14:06:08        ,0,0,0,0,0,0,0,830-421-5151; 830-421-5122,https://www.eaglepasstx.us/formcenter/covid19-7/covid19-vaccine-priority-groups-registra-52
 Ashley Pediatrics Day and Night Clinic - La Joya,Medical Practice,V,328 A E Expressway 83,La Joya,Hidalgo,328 A E Expressway 83,78560,05/10/2021      ,13:52:38        ,0,395,0,0,0,395,0,,
 Christus Trinity Clinic Magnolia Medical Plaza,Community Clinic,,3201 South Loop 256,Palestine,Anderson,3201 South Loop 256,75801,05/10/2021      ,07:07:29        ,0,0,0,0,20,20,0,(903) 723-0330,https://www.christushealth.org/trinity/clinic/locations-directions/magnolia-medical-plaza-palestine?utm_source=organic&utm_medium=GMB&utm_campaign=website&y_source=1_MTE3ODEzMjQtNzE1LWxvY2F0aW9uLmdvb2dsZV93ZWJzaXRlX292ZXJyaWRl
@@ -4115,7 +4117,7 @@ Super 1 Pharmacy 611,Pharmacy,,602 S Jefferson Ave,Mount Pleasant,Titus,602 S Je
 Canadian Family Physicians,Community Clinic,,1010 S 4th St,Canadian,Hemphill,1010 S 4th St,79014,05/11/2021      ,08:03:28        ,0,0,0,0,115,115,0,(806) 323-8882,http://hchdst.org/
 Brookshires Pharmacy 89,Pharmacy,,427 Pinson Road,Forney,Kaufman,427 Pinson Road,75126,05/11/2021      ,17:27:57        ,0,50,0,50,50,100,50,(972) 552-9573,https://www.brookshires.com/covid-19-information
 Taft Family Health Center,Community Clinic,,1210 Gregory St 2,Taft,San Patricio,1210 Gregory St 2,78390,05/11/2021      ,16:12:25        ,0,0,0,0,105,105,0,(361) 528-2595,
-South Texas Surgical Hospital,Hospital,,6130 Parkway Dr,Corpus Christi,Nueces,"6130 Parkway Drive, Corpus Christi, TX, USA",78414,05/11/2021      ,07:00:37        ,0,0,0,90,10,10,90,,
+South Texas Surgical Hospital,Hospital,,6130 Parkway Dr,Corpus Christi,Nueces,"6130 Parkway Drive, Corpus Christi, TX, USA",78414,05/12/2021      ,06:08:27        ,0,0,0,90,10,10,90,,
 Brookshire Brothers Pharmacy 72,Pharmacy,,14761 Hwy 150 West,Coldspring,San Jacinto,14761 Hwy 150 West,77331,05/10/2021      ,08:28:52        ,0,0,0,2,2,2,2,(936) 653-8201,https://www.brookshirebrothers.com/store-location/store-72
 Legent Orthopedic Hospital,Hospital,,1401 E Trinity Mills Rd,Carrollton,Dallas,1401 E Trinity Mills Rd,75006,05/11/2021      ,08:18:54        ,0,90,0,100,0,90,100,(972) 810-0700,https://www.psnaffiliates.com/legent-orthopedic-hospital
 Global Health,Community Clinic,,7720 Spencer Highway,Pasadena,Harris,7720 Spencer Highway,77505,05/11/2021      ,13:25:35        ,0,1110,0,0,0,1110,0,281-476-9900,https://www.hasc.com
@@ -4123,7 +4125,7 @@ ResourceCare Clyde,Medical Practice,,1712 N Access Rd,Clyde,Callahan,1712 N Acce
 Family Practice Rural Health Clinic,Medical Practice,,303 N Brown St,Hamilton,Hamilton,303 N Brown St,76531,05/11/2021      ,08:45:15        ,0,70,0,0,0,70,0,,
 Louis Morgan Drugs 1,Pharmacy,,1900 S High St,Longview,Gregg,1900 S High St,75602,05/11/2021      ,10:06:16        ,0,20,0,0,0,20,0,(903) 758-8286,https://www.louismorgan1.com/
 Midcities Pharmacy Inc,Pharmacy,,2000 Precinct Line Rd,Hurst,Tarrant,2000 Precinct Line Rd,76054,05/10/2021      ,16:38:49        ,1,170,1,0,85,256,1,(817) 605-3500,http://www.midcitiespharmacy.com/
-Tlc Clinic Pllc,Medical Practice,,12600 Scarsdale Blvd Ste A,Houston,Harris,12600 Scarsdale Blvd Ste A,77089,05/11/2021      ,12:01:15        ,0,170,0,0,0,170,0,,
+Tlc Clinic Pllc,Medical Practice,,12600 Scarsdale Blvd Ste A,Houston,Harris,12600 Scarsdale Blvd Ste A,77089,05/12/2021      ,06:56:58        ,0,170,0,0,0,170,0,,
 Seton Mccarthy Community Clinic,Community Clinic,,2811 East 2nd Street,Austin,Travis,2811 East 2nd Street,78702,05/06/2021      ,08:44:41        ,0,100,0,0,0,100,0,(512) 324-4930,https://healthcare.ascension.org/covid-19?utm_source=google&utm_medium=gmb&utm_campaign=usasc-COVID&utm_term=q4fy20
 Brookshire Brothers Pharmacy 1020,Pharmacy,,2075 Worth St,Hemphill,Sabine,2075 Worth St,75948,05/11/2021      ,08:05:34        ,0,10,0,10,10,20,10,409-787-2356,
 Brookshire Brothers Pharmacy 1007,Pharmacy,,31303 Fm 2920 Rd Ste H,Waller,Waller,31303 Fm 2920 Rd Ste H,77484,05/11/2021      ,11:33:08        ,0,80,0,0,170,250,0,936-372-1000,
