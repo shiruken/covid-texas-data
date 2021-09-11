@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5501308.svg)](https://doi.org/10.5281/zenodo.5501308)
+
 # covid-texas-data
 
 Archive data files from the [Texas COVID-19 Data website](https://www.dshs.state.tx.us/coronavirus/additionaldata/) and organize by date (`YYYY-MM-DD`).
