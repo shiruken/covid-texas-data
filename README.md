@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5501308.svg)](https://doi.org/10.5281/zenodo.5501308)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5501307.svg)](https://doi.org/10.5281/zenodo.5501307)
 
 # covid-texas-data
 
