@@ -1,7 +1,7 @@
 name: Update Case and Fatality Demographics Data
 on:
   schedule:
-    - cron: "0 14-23 * * 5"
+    - cron: "0 12 15 * *"
   workflow_dispatch:
 jobs:
   update-data:

@@ -15,7 +15,7 @@ _These files are overwritten daily during the dashboard update process so retain
 * [Accessible Dashboard Data](AccessibleDashboardData/): Excel file containing the underlying data currently displayed on the [COVID-19 Dashboard](https://www.dshs.state.tx.us/coronavirus/cases.aspx). Data are displayed on multiple tabs and include daily and cumulative case and fatality data, estimated recoveries, statewide hospital data.
 * [Accessible Vaccine Dashboard Data](AccessibleVaccineDashboardData/): Excel file containing the underlying data currently displayed on the [COVID-19 Vaccine in Texas Dashboard](https://tabexternal.dshs.texas.gov/t/THD/views/COVID-19VaccineinTexasDashboard/Summary).
 * ~~[Texas Vaccine Provider Data](TexasVaccineProviderData/): CSV file containing the underlying data currently displayed on the [COVID-19 Vaccine Provider Dashboard](https://tdem.maps.arcgis.com/apps/webappviewer/index.html?id=3700a84845c5470cb0dc3ddace5c376b).~~ _No longer updated_.
-* [Case and Fatality Demographics Data](CaseAndFatalityDemographicsData/): Excel file containing demographics data for COVID-19 fatalities and confirmed cases. Updated weekly on Friday.
+* [Case and Fatality Demographics Data](CaseAndFatalityDemographicsData/): Excel file containing demographics data for COVID-19 fatalities and confirmed cases. Updated monthly on the 14th.
 * [COVID-19 Vaccine Administration Data by ZIP Code](VaccineAdministrationByZipCode/): Excel file containing vaccine administration data based on recipient ZIP Code. Updated weekly on Monday.
 
 ### Data Files Updated Daily by Texas DSHS
