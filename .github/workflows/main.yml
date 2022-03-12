@@ -31,9 +31,6 @@ jobs:
       - name: Fetch 'Fatalities over Time by County'
         run: wget https://www.dshs.state.tx.us/coronavirus/TexasCOVID19DailyCountyFatalityCountData.xlsx -O FatalitiesOverTimeByCounty/$TEXAS_DATE.xlsx
         continue-on-error: true
-      - name: Fetch 'Estimated Active Cases over Time by County'
-        run: wget https://www.dshs.state.tx.us/coronavirus/TexasCOVID-19ActiveCaseDatabyCounty.xlsx -O EstimatedActiveCasesOverTimeByCounty/$TEXAS_DATE.xlsx
-        continue-on-error: true
       - name: Fetch 'Cumulative Tests by Type by County'
         run: wget https://www.dshs.state.tx.us/coronavirus/TexasCOVID-19CumulativeTestsbyType.xlsx -O CumulativeTestsByTypeByCounty/$TEXAS_DATE.xlsx
         continue-on-error: true
