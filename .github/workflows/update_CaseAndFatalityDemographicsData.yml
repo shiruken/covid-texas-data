@@ -11,7 +11,7 @@ jobs:
       - name: Get current date (in Texas) and define environmental variable
         run: echo "TEXAS_DATE=$(TZ=America/Chicago date +%Y-%m-%d)" >> $GITHUB_ENV 
       - name: Fetch 'Case and Fatality Demographics Data'
-        run: wget https://www.dshs.state.tx.us/coronavirus/TexasCOVID19Demographics.xlsx -O CaseAndFatalityDemographicsData/$TEXAS_DATE.xlsx
+        run: wget https://dshs.texas.gov/coronavirus/TexasCOVID19Demographics_Counts.xlsx -O CaseAndFatalityDemographicsData/$TEXAS_DATE.xlsx
         continue-on-error: true
       - name: Commit Changes to Repository
         uses: stefanzweifel/git-auto-commit-action@v4
