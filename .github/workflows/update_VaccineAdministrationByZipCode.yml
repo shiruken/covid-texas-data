@@ -19,4 +19,4 @@ jobs:
           commit_message: COVID-19 Vaccine Administration Data by ZIP Code Updated
           commit_user_name: github-actions[bot]
           commit_user_email: github-actions[bot]@users.noreply.github.com
-          commit_author: github-actions[bot]
+          commit_author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
