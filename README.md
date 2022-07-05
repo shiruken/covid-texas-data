@@ -28,9 +28,6 @@ _These files are amended daily with the latest numbers but retroactive changes c
   * [Probable Cases over Time by County](ProbableCasesOverTimeByCounty/)
   * [New Probable Cases over Time by County](NewProbableCasesOverTimeByCounty/)
 * [Fatalities over Time by County](FatalitiesOverTimeByCounty/)
-* Testing
-  * [Cumulative Tests by Type by County](CumulativeTestsByTypeByCounty/)
-  * [Cumulative Tests over Time by County](CumulativeTestsOverTimeByCounty/)
 * [Combined Hospital Data over Time by Trauma Service Area (TSA)](HospitalDataOverTimeByTSA/)
 
 
@@ -38,3 +35,5 @@ _These files are amended daily with the latest numbers but retroactive changes c
 
 * [Texas Vaccine Provider Data](TexasVaccineProviderData/): CSV file containing the underlying data currently displayed on the [COVID-19 Vaccine Provider Dashboard](https://tdem.maps.arcgis.com/apps/webappviewer/index.html?id=3700a84845c5470cb0dc3ddace5c376b) (Last updated 2021-06-10)
 * [Estimated Active Cases over Time by County](EstimatedActiveCasesOverTimeByCounty/) (Last updated 2022-01-13)
+* [Cumulative Tests by Type by County](CumulativeTestsByTypeByCounty/) (Last updated 2022-04-06)
+* [Cumulative Tests over Time by County](CumulativeTestsOverTimeByCounty/) (Last updated 2022-04-06)
