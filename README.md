@@ -10,7 +10,7 @@ Archive data files from the [Texas COVID-19 Data website](https://www.dshs.state
 
 ### Data Files Overwritten Daily by Texas DSHS
 
-_These files are overwritten daily during the dashboard update process so retaining past versions is the only way to access historical values for certain metrics._
+_These files are overwritten daily (Monday-Friday) during the dashboard update process so retaining past versions is the only way to access historical values for certain metrics._
 
 * [Accessible Dashboard Data](AccessibleDashboardData/): Excel file containing the underlying data currently displayed on the [COVID-19 Dashboard](https://www.dshs.state.tx.us/coronavirus/cases.aspx). Data are displayed on multiple tabs and include daily and cumulative case and fatality data, estimated recoveries, statewide hospital data.
 * [Accessible Vaccine Dashboard Data](AccessibleVaccineDashboardData/): Excel file containing the underlying data currently displayed on the [COVID-19 Vaccine in Texas Dashboard](https://tabexternal.dshs.texas.gov/t/THD/views/COVID-19VaccineinTexasDashboard/Summary).
@@ -19,7 +19,7 @@ _These files are overwritten daily during the dashboard update process so retain
 
 ### Data Files Updated Daily by Texas DSHS
 
-_These files are amended daily with the latest numbers but retroactive changes can result in past values being silently updated._
+_These files are amended daily (Monday-Friday) with the latest numbers but retroactive changes can result in past values being silently updated._
 
 * Confirmed Cases
   * [Confirmed Cases over Time by County](ConfirmedCasesOverTimeByCounty/)
