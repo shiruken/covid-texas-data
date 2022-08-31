@@ -16,24 +16,6 @@ jobs:
       - name: Fetch 'Accessible Vaccine Dashboard Data'
         run: wget https://www.dshs.state.tx.us/immunize/covid19/COVID-19-Vaccine-Data-by-County.xls -O AccessibleVaccineDashboardData/$TEXAS_DATE.xlsx
         continue-on-error: true
-      - name: Fetch 'Confirmed Cases over Time by County'
-        run: wget https://www.dshs.state.tx.us/coronavirus/TexasCOVID19DailyCountyCaseCountData.xlsx -O ConfirmedCasesOverTimeByCounty/$TEXAS_DATE.xlsx
-        continue-on-error: true
-      - name: Fetch 'New Confirmed Cases over Time by County'
-        run: wget https://www.dshs.state.tx.us/coronavirus/TexasCOVID-19NewCasesOverTimebyCounty.xlsx -O NewConfirmedCasesOverTimeByCounty/$TEXAS_DATE.xlsx
-        continue-on-error: true
-      - name: Fetch 'Probable Cases over Time by County'
-        run: wget https://www.dshs.state.tx.us/coronavirus/TexasCOVID19ProbableCasesoverTimebyCounty.xlsx -O ProbableCasesOverTimeByCounty/$TEXAS_DATE.xlsx
-        continue-on-error: true
-      - name: Fetch 'New Probable Cases over Time by County'
-        run: wget https://www.dshs.state.tx.us/coronavirus/TexasCOVID-19NewProbableCasesbyCounty.xlsx -O NewProbableCasesOverTimeByCounty/$TEXAS_DATE.xlsx
-        continue-on-error: true
-      - name: Fetch 'Fatalities over Time by County'
-        run: wget https://www.dshs.state.tx.us/coronavirus/TexasCOVID19DailyCountyFatalityCountData.xlsx -O FatalitiesOverTimeByCounty/$TEXAS_DATE.xlsx
-        continue-on-error: true
-      - name: Fetch 'Combined Hospital Data over Time by Trauma Service Area (TSA)'
-        run: wget https://www.dshs.state.tx.us/coronavirus/CombinedHospitalDataoverTimebyTSA.xlsx -O HospitalDataOverTimeByTSA/$TEXAS_DATE.xlsx
-        continue-on-error: true
       - name: Commit Changes to Repository
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
