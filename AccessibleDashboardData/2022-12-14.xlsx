@@ -47,7 +47,7 @@
     <script src="/core/misc/touchevents-test.js?v=9.4.8"></script>
 
   </head>
-  <body class="layout-no-sidebars page-node-30146 path-node node--type-child-page">
+  <body class="is-mobile layout-no-sidebars page-node-30146 path-node node--type-child-page">
     <a href="#main-content" class="visually-hidden focusable skip-link">
       Skip to main content
     </a>
@@ -2507,5 +2507,5 @@ position: absolute !important;
 <script src="/modules/contrib/dropdown_language/js/dropdown_language_selector.js?v=9.4.8"></script>
 <script src="/core/misc/dropbutton/dropbutton.js?v=9.4.8"></script>
 
-  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"NRJS-0edcd71d80f068c4346","applicationID":"1064697332","transactionName":"MlxSZUpSVkRQUxYLWQsWcVJMWldZHnQQF0YEVWxfV1dda3JfDBZEClVcVEpvdlhVVTQLUxJ6X19MQVdbXVUQTwgTUFVG","queueTime":0,"applicationTime":2260,"atts":"HhtREwJIRUo=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"NRJS-0edcd71d80f068c4346","applicationID":"1064697332","transactionName":"MlxSZUpSVkRQUxYLWQsWcVJMWldZHnQQF0YEVWxfV1dda3JfDBZEClVcVEpvdlhVVTQLUxJ6X19MQVdbXVUQTwgTUFVG","queueTime":0,"applicationTime":2073,"atts":"HhtREwJIRUo=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 </html>
