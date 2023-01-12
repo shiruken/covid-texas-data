@@ -2,7 +2,7 @@
 
 # covid-texas-data
 
-Archive data files from the [Texas COVID-19 Data website](https://www.dshs.state.tx.us/covid-19-coronavirus-disease-2019/texas-covid-19-data) and organized by date (`YYYY-MM-DD`). Texas DSHS briefly stopped regular data releases for many files in August 2022, but resumed in mid-December 2022.
+Archive data files from the [Texas COVID-19 Data website](https://www.dshs.texas.gov/covid-19-coronavirus-disease-2019/texas-covid-19-data) and organized by date (`YYYY-MM-DD`). Texas DSHS briefly stopped regular data releases for many files in August 2022, but resumed in mid-December 2022.
 
 ## My Visualizations
 
