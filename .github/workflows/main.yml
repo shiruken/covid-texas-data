@@ -8,13 +8,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Get current date (in Texas) and define environmental variable
-        run: echo "TEXAS_DATE=$(TZ=America/Chicago date +%Y-%m-%d)" >> $GITHUB_ENV
+      - name: Get current date (in Texas) and define environmental variables
+        run: |
+          echo "TEXAS_DATE=$(TZ=America/Chicago date +%Y-%m-%d)" >> $GITHUB_ENV
+          echo "TEXAS_DATE_ALT=$(TZ=America/Chicago date +%Y%m%d)" >> $GITHUB_ENV
       - name: Fetch 'Accessible Dashboard Data'
         run: wget https://www.dshs.texas.gov/sites/default/files/chs/data/COVID/CaseCountData.xlsx -O AccessibleDashboardData/$TEXAS_DATE.xlsx
         continue-on-error: true
       - name: Fetch 'Accessible Vaccine Dashboard Data'
-        run: wget https://www.dshs.texas.gov/sites/default/files/LIDS-Immunize-COVID19/COVID%20Dashboard/County%20Dashboard/COVID-19%20Vaccine%20Data%20by%20County.xlsx -O AccessibleVaccineDashboardData/$TEXAS_DATE.xlsx
+        run: wget https://www.dshs.texas.gov/sites/default/files/LIDS-Immunize-COVID19/COVID%20Dashboard/County%20Dashboard/COVID-19%20Vaccine%20Data%20by%20County_$TEXAS_DATE_ALT.xlsx -O AccessibleVaccineDashboardData/$TEXAS_DATE.xlsx
         continue-on-error: true
       - name: Fetch 'Confirmed Cases over Time by County'
         run: wget https://www.dshs.texas.gov/sites/default/files/chs/data/COVID/Texas%20COVID-19%20Cumulative%20Confirmed%20Cases%20by%20County.xlsx -O ConfirmedCasesOverTimeByCounty/$TEXAS_DATE.xlsx
