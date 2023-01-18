@@ -7,7 +7,7 @@ jobs:
   update-data:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: Get current date (in Texas) and define environmental variable
         run: echo "TEXAS_DATE=$(TZ=America/Chicago date +%Y-%m-%d)" >> $GITHUB_ENV 
       - name: Fetch 'Case and Fatality Demographics Data'
