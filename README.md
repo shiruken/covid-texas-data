@@ -2,9 +2,9 @@
 
 # covid-texas-data
 
-Archived data files from the [Texas COVID-19 Data website](https://www.dshs.texas.gov/covid-19-coronavirus-disease-2019/texas-covid-19-data) organized by date (`YYYY-MM-DD`).
+## _Data is no longer being updated after Texas DSHS ended data releases on May 10, 2023_
 
-_Texas DSHS ended data releases on May 10, 2023_
+Archived data files from the [Texas COVID-19 Data website](https://www.dshs.texas.gov/covid-19-coronavirus-disease-2019/texas-covid-19-data) organized by date (`YYYY-MM-DD`).
 
 ## My Visualizations
 
